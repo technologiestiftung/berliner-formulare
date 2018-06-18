@@ -105,7 +105,7 @@ function processItems(_items){
 		  						s2 = s1[1].split('&')
 
 		  					url = decodeURIComponent(s2[0])
-		  					filename =  url.split('/').pop()
+		  					filename =  ((url.split('/').pop()).split('?'))[0]
 		  				}
 		  				items[i].detailLink[l]['file'] = filename
 		  				if (!fs.existsSync(download_path+filename)) {
