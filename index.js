@@ -13,7 +13,9 @@ let options = {
         return cheerio.load(body, {xmlMode: true});
     }
 };
- 
+
+let errors = []
+
 request(options)
 	.then(function ($) {
 		let items = []
@@ -25,14 +27,15 @@ request(options)
 				link:link
 			})
 		})
-		processItems(items)
+		return processItems(items)
 	})
 	.catch(function (err) {
 		console.log('request-error', err)
 	})
 
-function processItems(items){
-	Promise.all(items.map(function(item) {
+function processItems(_items){
+	let items = _items
+	return Promise.all(items.map(function(item) {
 		let options = {
 			timeout:120000,
 			pool: {maxSockets: 6},
@@ -42,9 +45,8 @@ function processItems(items){
 			}
 		}
 
-		console.log(item.link)
-
 		return request(options).then(function($) {
+
 			let pdf_links = []
 			$('a').each((i, item)=>{
 				let href = $(item).attr('href'),
@@ -83,38 +85,63 @@ function processItems(items){
 					})
 				}
 			})
+
 			return pdf_links
 		}).catch(function (err) {
-			console.log('processItems-error', err)
+			console.log('processItems-error', item.link, err)
 		})
 
 	})).then(function(values) {
 	  	items.forEach((item,i)=>{
-	  		items[i]['detailLink'] = values[i]
-	  		item.detailLink.forEach((link,l)=>{
-	  			if(link.type == 'pdf'){
-	  				let url = link.link,
-	  					filename =  url.split('/').pop()
+	  		if(values[i] != undefined){
+		  		items[i]['detailLink'] = values[i]
+		  		items[i].detailLink.forEach((link,l)=>{
+		  			if(link.type == 'pdf'){
+		  				let url = link.link,
+		  					filename =  url.split('/').pop()
 
-	  				if(url.indexOf('https://www.google.de')>-1){
-	  					let s1 = url.split('url='),
-	  						s2 = s1[1].split('&')
+		  				if(url.indexOf('https://www.google.de')>-1){
+		  					let s1 = url.split('url='),
+		  						s2 = s1[1].split('&')
 
-	  					url = decodeURIComponent(s2[0])
-	  					filename =  url.split('/').pop()
-	  				}
-	  				items[i].detailLink[l]['file'] = filename
-	  				if (!fs.existsSync(download_path+filename)) {
-						request.get(url)
-			    			.pipe(fs.createWriteStream(download_path+filename))
-			    	}
+		  					url = decodeURIComponent(s2[0])
+		  					filename =  url.split('/').pop()
+		  				}
+		  				items[i].detailLink[l]['file'] = filename
+		  				if (!fs.existsSync(download_path+filename)) {
+		  					request({
+								timeout:120000,
+								pool: {maxSockets: 6},
+								uri: url,
+								method: "GET",
+								encoding: "binary",
+								headers: {
+									"Content-type": "application/pdf"
+								}
+							}).then((body) => {
+								//body, 
+								let writeStream = fs.createWriteStream(download_path+filename);
+									writeStream.write(body, 'binary');
+							      	writeStream.on('finish', () => {
+									});
+							      	writeStream.end();
+							}).catch(err=>{
+								console.log('request-pdf', url, err.statusCode)
+							})
 
-	  			}
-	  		})
+				    	}
+
+		  			}
+		  		})
+		  	}else{
+		  		console.log('missing', items[i])
+		  	}
 
 	  	})
 	  
 		fs.writeFileSync('forms.json', JSON.stringify(items), 'utf8')
+	}).catch(err=>{
+		throw err
 	})
 }
 

@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="de-DE"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="de-DE"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="de-DE"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="de-DE"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="de-DE"> <!--<![endif]-->
+<head>
+	<title>Kulturbuch-Verlag | </title>
+	<meta name="description" content=" | " />
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+		<link rel="icon" href="https://www.kulturbuch-verlag.de/favicon.ico" type="image/x-icon" />
+		<link rel="pingback" href="https://www.kulturbuch-verlag.de/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Kulturbuch-Verlag" href="https://www.kulturbuch-verlag.de/?feed=rss2" />
+	<link rel="alternate" type="application/atom+xml" title="Kulturbuch-Verlag" href="https://www.kulturbuch-verlag.de/?feed=atom" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://www.kulturbuch-verlag.de/wp-content/themes/theme49016/bootstrap/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://www.kulturbuch-verlag.de/wp-content/themes/theme49016/bootstrap/css/responsive.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/css/camera.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://www.kulturbuch-verlag.de/wp-content/themes/theme49016/style.css" />
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kulturbuch-Verlag &raquo; Feed" href="https://www.kulturbuch-verlag.de/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Kulturbuch-Verlag &raquo; Kommentar-Feed" href="https://www.kulturbuch-verlag.de/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.kulturbuch-verlag.de\/wp-includes\/js\/wp-emoji.js?ver=4.9.6","twemoji":"https:\/\/www.kulturbuch-verlag.de\/wp-includes\/js\/twemoji.js?ver=4.9.6"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Emoji allows people of all gender levitate and so does WordPress.
+				 *
+				 * To test for support, try to render a new emoji (woman in business suit levitating),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (person in business suit levitating + female sign).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[55357, 56692, 8205, 9792, 65039],
+					[55357, 56692, 8203, 9792, 65039]
+				);
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flexslider-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-plugin-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmenucart-icons-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-icons.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmenucart-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-main.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='aws-style-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/advanced-woo-search/assets/css/common.css?ver=1.27' type='text/css' media='all' />
+<link rel='stylesheet' id='theme49016-css'  href='https://www.kulturbuch-verlag.de/wp-content/themes/theme49016/main-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/css/magnific-popup.css?ver=0.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='options_typography_Roboto+Condensed-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='options_typography_Sofia-css'  href='//fonts.googleapis.com/css?family=Sofia&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='carousel-slider-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/carousel-slider/assets/css/style.css?ver=1.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-theme-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-bootstrap-grid-css'  href='https://www.kulturbuch-verlag.de/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=1.5.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery-1.7.2.min.js?ver=1.7.2'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.8.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;ver=4.9.6'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/modernizr.js?ver=2.0.6'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jflickrfeed.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/bootstrap/js/bootstrap.min.js?ver=2.3.0'></script>
+<link rel='https://api.w.org/' href='https://www.kulturbuch-verlag.de/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kulturbuch-verlag.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kulturbuch-verlag.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<meta name="generator" content="WooCommerce 3.2.4" />
+<link rel="canonical" href="https://www.kulturbuch-verlag.de/" />
+<link rel='shortlink' href='https://www.kulturbuch-verlag.de/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.kulturbuch-verlag.de/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.kulturbuch-verlag.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.kulturbuch-verlag.de/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.kulturbuch-verlag.de%2F&#038;format=xml" />
+<script>
+ var system_folder = 'https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/admin/data_management/',
+	 CHILD_URL ='https://www.kulturbuch-verlag.de/wp-content/themes/theme49016',
+	 PARENT_URL = 'https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework', 
+	 CURRENT_THEME = 'theme49016'</script><meta name = "format-detection" content = "telephone=no" />
+<style type='text/css'>
+body { background-color:#2b2b2b }
+.header { background-image:url(https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/kbv_logo_2.png); background-repeat:repeat; background-position:top center; background-attachment:scroll; }
+
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<style type='text/css'>
+h1 { font: normal 30px/38px Roboto Condensed;  color:#303030; }
+h2 { font: normal 24px/28px Roboto Condensed;  color:#303030; }
+h3 { font: normal 18px/22px Roboto Condensed;  color:#303030; }
+h4 { font: normal 14px/18px Roboto Condensed;  color:#303030; }
+h5 { font: normal 12px/18px Roboto Condensed;  color:#303030; }
+h6 { font: normal 12px/18px Roboto Condensed;  color:#303030; }
+body { font-weight: normal;}
+.logo_h__txt, .logo_link { font: normal 30px/48px Sofia;  color:#ffffff; }
+.sf-menu > li > a { font: normal 16px/24px Roboto Condensed;  color:#000000; }
+.nav.footer-nav a { font: normal 13px/18px Roboto Condensed;  color:#606060; }
+</style>
+<link rel="icon" href="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/cropped-kbv_logo-copy4-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/cropped-kbv_logo-copy4-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/cropped-kbv_logo-copy4-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/cropped-kbv_logo-copy4-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Füge deinen eigenen CSS-Code nach diesem Kommentar hinter dem abschließenden Schrägstrich ein. 
+
+Klicke auf das Hilfe-Symbol oben, um mehr zu erfahren.
+*/
+		</style>
+			<!--[if lt IE 9]>
+		<div id="ie7-alert" style="width: 100%; text-align:center;">
+			<img src="http://tmbhtest.com/images/ie7.jpg" alt="Upgrade IE 8" width="640" height="344" border="0" usemap="#Map" />
+			<map name="Map" id="Map"><area shape="rect" coords="496,201,604,329" href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank" alt="Download Interent Explorer" /><area shape="rect" coords="380,201,488,329" href="http://www.apple.com/safari/download/" target="_blank" alt="Download Apple Safari" /><area shape="rect" coords="268,202,376,330" href="http://www.opera.com/download/" target="_blank" alt="Download Opera" /><area shape="rect" coords="155,202,263,330" href="http://www.mozilla.com/" target="_blank" alt="Download Firefox" /><area shape="rect" coords="35,201,143,329" href="http://www.google.com/chrome" target="_blank" alt="Download Google Chrome" />
+			</map>
+		</div>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script src="https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			jQuery(function(){
+				jQuery('.sf-menu').mobileMenu({defaultText: "Zu ..."});
+			});
+		</script>
+	<!--<![endif]-->
+	<script type="text/javascript">
+		// Init navigation menu
+		jQuery(function(){
+		// main navigation init
+			jQuery('ul.sf-menu').superfish({
+				delay: 1000, // the delay in milliseconds that the mouse can remain outside a sub-menu without it closing
+				animation: {
+					opacity: "show",
+					height: "show"
+				}, // used to animate the sub-menu open
+				speed: "normal", // animation speed
+				autoArrows: false, // generation of arrow mark-up (for submenu)
+				disableHI: true // to disable hoverIntent detection
+			});
+
+		//Zoom fix
+		//IPad/IPhone
+			var viewportmeta = document.querySelector && document.querySelector('meta[name="viewport"]'),
+				ua = navigator.userAgent,
+				gestureStart = function () {
+					viewportmeta.content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0";
+				},
+				scaleFix = function () {
+					if (viewportmeta && /iPhone|iPad/.test(ua) && !/Opera Mini/.test(ua)) {
+						viewportmeta.content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+						document.addEventListener("gesturestart", gestureStart, false);
+					}
+				};
+			scaleFix();
+		})
+	</script>
+	<!-- stick up menu -->
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!device.mobile() && !device.tablet()){
+				jQuery('.header .nav__primary').tmStickUp({
+					correctionSelector: jQuery('#wpadminbar')
+				,	listenSelector: jQuery('.listenSelector')
+				,	active: false				,	pseudo: true				});
+			}
+		})
+	</script>
+</head>
+
+<body class="home page-template-default page page-id-501 has_woocommerce has_shop">
+	<div id="motopress-main" class="main-holder">
+		<!--Begin #motopress-main-->
+		<header class="motopress-wrapper header">
+			<div class="container">
+				<div class="row">
+					<div class="span12" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="5b27da5d526c8">
+						<div class="row">
+	<div class="span12">
+		<div class="top-row" data-motopress-type="static" data-motopress-static-file="static/static-shop-nav.php">
+				<span style="color: white;"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;8:00-15:00 Uhr: +49 30 661 84 84</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: white;"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;kbvinfo@kulturbuch-verlag.de</span>
+<div class="shop-nav"><ul id="shopnav" class="shop-menu"><li id="menu-item-2686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2686"><a href="https://www.kulturbuch-verlag.de/?page_id=5">Warenkorb</a></li>
+<li class="wpmenucartli wpmenucart-display-standard menu-item menu-item-type-post_type menu-item-object-page menu-item-2686" id="wpmenucartli"><a class="wpmenucart-contents empty-wpmenucart-visible" href="https://www.kulturbuch-verlag.de/?page_id=4" title="Zum Shop"><i class="wpmenucart-icon-shopping-cart-0"></i><span class="cartcontents">0 Artikel</span></a></li></ul></div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<div class="span4" data-motopress-type="static" data-motopress-static-file="static/static-logo.php">
+		<!-- BEGIN LOGO -->
+<div class="logo">
+									<a href="https://www.kulturbuch-verlag.de/" class="logo_h logo_h__img"><img src="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/11/kbv_logo-copy3.png" alt="Kulturbuch-Verlag" title=""></a>
+				</div>
+<!-- END LOGO -->	</div>
+    <div class="span8" data-motopress-type="static" data-motopress-static-file="static/static-nav.php">
+		<div class="bot-row">
+			<div class="search" data-motopress-type="static" data-motopress-static-file="static/static-search.php">
+				<!-- BEGIN SEARCH FORM -->
+<!-- END SEARCH FORM -->			</div>
+            <!-- BEGIN MAIN NAVIGATION -->
+<nav class="nav nav__primary clearfix">
+<ul id="topnav" class="sf-menu"><li id="menu-item-443" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home"><a href="https://www.kulturbuch-verlag.de">Startseite</a></li>
+<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.kulturbuch-verlag.de/?page_id=4">Shop</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.kulturbuch-verlag.de/?page_id=451">Neuankündigungen</a></li>
+<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.kulturbuch-verlag.de/?page_id=444">Unser Tipp</a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.kulturbuch-verlag.de/?page_id=426">Der Verlag</a></li>
+</ul></nav><!-- END MAIN NAVIGATION -->
+			<div class="clearfix"></div>
+		</div>	
+	</div>
+</div>					</div>
+				</div>
+			</div>
+		</header>
+<div class="motopress-wrapper content-holder clearfix">
+	<div class="container">
+		<div class="row">
+			<div class="span12" data-motopress-wrapper-file="page.php" data-motopress-wrapper-type="content">
+				<div class="row">
+					<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-title.php">
+						
+<section class="title-section">
+	<h1 style="font-size: 0;
+  width: 1px;
+  height: 1px;
+  display: inline-block;
+  overflow: hidden;
+  position: absolute!important;
+  border: 0!important;
+  padding: 0!important;
+  margin: 0!important;
+  clip: rect(1px,1px,1px,1px);">
+		
+			Kulturbuch-Verlag	</h1>
+	<h2 class="title-header" style="border-bottom:0px;margin-top:0px;">
+		
+			Der authentische Verlag	</h2>
+				<!-- BEGIN BREADCRUMBS-->
+			<ul class="breadcrumb breadcrumb__t"><li><a href="https://www.kulturbuch-verlag.de">Der authentische Verlag</a><li></ul>			<!-- END BREADCRUMBS -->
+	</section><!-- .title-section --><div style="    position: absolute;
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;"> <div class="aws-container" data-url="https://www.kulturbuch-verlag.de/wp-admin/admin-ajax.php" data-siteurl="https://www.kulturbuch-verlag.de" data-show-loader="true" data-show-page="false" data-use-analytics="false" data-min-chars="1" ><form class="aws-search-form" action="https://www.kulturbuch-verlag.de" method="get" role="search" ><input  type="text" name="s" value="" class="aws-search-field" placeholder="Suche" autocomplete="off" /><input type="hidden" name="post_type" value="product"><input type="hidden" name="type_aws" value="true"><div class="aws-search-result" style="display: none;"></div></form></div></div>					</div>
+				</div>
+				<div class="row">
+					<div class="span9 left left" id="content" data-motopress-type="loop" data-motopress-loop-file="loop/loop-page.php">
+							<div id="post-501" class="page post-501 type-page status-publish hentry">
+		<div class="carousel-slider-outer carousel-slider-outer-products carousel-slider-outer-1409">
+	<style type="text/css">
+            #id-1409 .carousel-slider-nav-icon {
+                fill: #f1f1f1
+            }
+            #id-1409 .carousel-slider-nav-icon:hover {
+                fill: #4caf50
+            }
+            #id-1409 .owl-prev,
+            #id-1409 .owl-next,
+            #id-1409 .carousel-slider-nav-icon {
+                height: 48px;
+                width: 48px
+            }
+            #id-1409.arrows-outside .owl-prev {
+                left: -48px
+            }
+            #id-1409.arrows-outside .owl-next {
+                right: -48px
+            }
+        
+		    #id-1409 .owl-dots .owl-dot span {
+                background-color: #f1f1f1;
+                width: 10px;
+                height: 10px;
+            }
+            #id-1409 .owl-dots .owl-dot.active span,
+            #id-1409 .owl-dots .owl-dot:hover span {
+                background-color: #4caf50
+            }
+		
+		        #id-1409 .carousel-slider__product h3,
+                #id-1409 .carousel-slider__product .price {
+                    color: #333333;
+                }
+
+                #id-1409 .carousel-slider__product a.add_to_cart_button,
+                #id-1409 .carousel-slider__product a.added_to_cart,
+                #id-1409 .carousel-slider__product a.quick_view,
+                #id-1409 .carousel-slider__product .onsale {
+                    background-color: #96588a;
+                    color: #f1f1f1;
+                }
+
+                #id-1409 .carousel-slider__product .star-rating {
+                    color: #96588a;
+                }
+		    </style>    <div id="id-1409" class="owl-carousel carousel-slider arrows-outside arrows-visible-hover dots-visible-always dots-center dots-square" data-slide-type="product-carousel" data-margin="20" data-slide-by="1" data-loop="true" data-lazy-load="false" data-stage-padding="" data-auto-width="false" data-dots="true" data-nav="true" data-video-width="560" data-video-height="315" data-autoplay="true" data-autoplay-timeout="5000" data-autoplay-speed="500" data-autoplay-hover-pause="false" data-colums="5" data-colums-desktop="5" data-colums-small-desktop="4" data-colums-tablet="4" data-colums-small-tablet="3" data-colums-mobile="2">
+		    </div>
+</div>
+
+<h2>Neuerscheinungen</h2>
+<div class="woocommerce columns-3 "><ul class="products">
+<li class="post-3258 product type-product status-publish has-post-thumbnail product_cat-buch product_tag-deutsch first instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=die-gesetze-ueber-die-berliner-verwaltung-68-auflage-1-august-2017" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/700068-2-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/700068-2-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/700068-2-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/700068-2-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Kirchner Gesetze Bln. Verwalt.</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;19,50</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3258" data-quantity="1" data-product_id="3258" data-product_sku="700068" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3254 product type-product status-publish has-post-thumbnail product_cat-bodenpreise product_tag-deutsch  instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=immobilienmarktbericht-berlin-2016-2017" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/701600-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/701600-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/701600-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/701600-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Immobilienmarktberich2016/2017</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;24,50</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3254" data-quantity="1" data-product_id="3254" data-product_sku="1002499" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3252 product type-product status-publish has-post-thumbnail product_cat-zeitschriften product_tag-deutsch last instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=berliner-mietspiegel-2017" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/101720-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/101720-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/101720-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/101720-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Berliner Mietspiegel 2017</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;15,00</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3252" data-quantity="1" data-product_id="3252" data-product_sku="101720" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3248 product type-product status-publish has-post-thumbnail product_cat-zeitschriften-einbanddecken product_tag-deutsch first instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=einbanddecken-2016-bd-i-iii-amtsblatt-fuer-berlin-inkl-stichwortverzeichnis" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/121600-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/121600-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/121600-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/121600-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Einbanddecken 2016 Bd. I &#8211; III</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;39,00</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3248" data-quantity="1" data-product_id="3248" data-product_sku="1002494" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3244 product type-product status-publish has-post-thumbnail product_cat-buch product_tag-deutsch  instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=berliner-gesetze-zum-hochschulrecht-mit-ausgewaehlten-gesetzen-verordnungen-beschluessen-und-grundordnungen" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720009-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720009-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720009-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720009-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Hochschulrecht</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;22,50</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3244" data-quantity="1" data-product_id="3244" data-product_sku="720009" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3206 product type-product status-publish has-post-thumbnail product_cat-buch product_tag-deutsch last instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=hier-kommt-der-schnobbl" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-768x768.jpg 768w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-180x180.jpg 180w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1-600x600.jpg 600w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/720008-1.jpg 904w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Schnobbl</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;9,80</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3206" data-quantity="1" data-product_id="3206" data-product_sku="1002307" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3076 product type-product status-publish has-post-thumbnail product_cat-abgeordnetenhaus-von-berlin product_tag-deutsch first instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=peter-mudra-bezirksverwaltungsgesetz-mit-kommentaren-stand-juli-2011" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719301-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719301-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719301-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719301-1-180x180.jpg 180w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719301-1-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Bezirksverwaltungsgesetz</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;18,50</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3076" data-quantity="1" data-product_id="3076" data-product_sku="1001990" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-3066 product type-product status-publish has-post-thumbnail product_cat-abgeordnetenhaus-von-berlin product_tag-deutsch  instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=praxishandbuch-des-abgeordnetenhauses-von-berlin-2-auflage-stand-oktober-2014" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719300-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719300-1-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719300-1-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/719300-1-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Praxishandbuch AvB</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;19,90</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=3066" data-quantity="1" data-product_id="3066" data-product_sku="1001942" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+<li class="post-2730 product type-product status-publish has-post-thumbnail product_cat-loseblatt product_tag-deutsch last instock featured downloadable taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://www.kulturbuch-verlag.de/?product=mitteilungen-in-zivilsachen-stand-oktober-2016-grundwerk" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="relative"><img width="300" height="300" src="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/590000-8-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//www.kulturbuch-verlag.de/wp-content/uploads/2017/11/590000-8-300x300.jpg 300w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/590000-8-150x150.jpg 150w, //www.kulturbuch-verlag.de/wp-content/uploads/2017/11/590000-8-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" /></div><h2 class="woocommerce-loop-product__title">Mitteilungen in Zivilsachen</h2></a><div class="fl-btn">
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>&nbsp;15,00</span></span>
+<a rel="nofollow" href="/online/brv_aktuell/PDF/2124-2.pdf/?add-to-cart=2730" data-quantity="1" data-product_id="2730" data-product_sku="590000" class="button product_type_simple add_to_cart_button ajax_add_to_cart">In den Warenkorb</a></div></li>
+</ul>
+</div>
+<p><!-- [products skus="1002485,720009"] --></p>
+<p><!--
+Das "featured_products" bitte auskommentieren mit diesem   <! strich strich   bzw.  strich strich > am Ende
+sowie das die Kommentierung rum [product skus.. ] entfernen. 
+--> </p>
+<p>&nbsp;</p>
+		<div class="clear"></div>
+		<!--.pagination-->
+	</div><!--post-->
+					</div>
+					<div class="span3 sidebar" id="sidebar" data-motopress-type="static-sidebar"  data-motopress-sidebar-file="sidebar.php">
+						
+<div id="woocommerce_product_categories-2" class="visible-all-devices widget"><h3>Produktkategorien</h3><ul class="product-categories"><li class="cat-item cat-item-21"><a href="https://www.kulturbuch-verlag.de/?product_cat=abgeordnetenhaus-von-berlin">Abgeordnetenhaus von Berlin</a> <span class="count">(9)</span></li>
+<li class="cat-item cat-item-47"><a href="https://www.kulturbuch-verlag.de/?product_cat=amtsblatt-fuer-berlin">Amtsblatt für Berlin</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-36"><a href="https://www.kulturbuch-verlag.de/?product_cat=bauen">Bauen</a> <span class="count">(7)</span></li>
+<li class="cat-item cat-item-26"><a href="https://www.kulturbuch-verlag.de/?product_cat=berlin-wird">Berlin wird</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-34"><a href="https://www.kulturbuch-verlag.de/?product_cat=bezirkswappen">Bezirkswappen</a> <span class="count">(8)</span></li>
+<li class="cat-item cat-item-22"><a href="https://www.kulturbuch-verlag.de/?product_cat=bodenpreise">Bodenpreise</a> <span class="count">(29)</span></li>
+<li class="cat-item cat-item-29"><a href="https://www.kulturbuch-verlag.de/?product_cat=buch">Buch</a> <span class="count">(7)</span></li>
+<li class="cat-item cat-item-15"><a href="https://www.kulturbuch-verlag.de/?product_cat=cd-amtsblatt-berlin">CD - Amtsblatt Berlin</a> <span class="count">(19)</span></li>
+<li class="cat-item cat-item-38"><a href="https://www.kulturbuch-verlag.de/?product_cat=cd-brv">CD - BRV</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-35"><a href="https://www.kulturbuch-verlag.de/?product_cat=cd-mizi">CD - MiZi</a> <span class="count">(9)</span></li>
+<li class="cat-item cat-item-27"><a href="https://www.kulturbuch-verlag.de/?product_cat=denkmalpflege">Denkmalpflege</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-33"><a href="https://www.kulturbuch-verlag.de/?product_cat=gartendenkmalpflege">Gartendenkmalpflege</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-40"><a href="https://www.kulturbuch-verlag.de/?product_cat=geoinformationen">Geoinformationen</a> <span class="count">(23)</span></li>
+<li class="cat-item cat-item-30"><a href="https://www.kulturbuch-verlag.de/?product_cat=kultur-kunst">Kultur + Kunst</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-17"><a href="https://www.kulturbuch-verlag.de/?product_cat=lawa">LAWA</a> <span class="count">(22)</span></li>
+<li class="cat-item cat-item-19"><a href="https://www.kulturbuch-verlag.de/?product_cat=loseblatt">Loseblatt</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-32"><a href="https://www.kulturbuch-verlag.de/?product_cat=naturschutzlandschaftspflege">Naturschutz/Landschaftspflege</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-18"><a href="https://www.kulturbuch-verlag.de/?product_cat=schulen-in-berlin">Schulen in Berlin</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-24"><a href="https://www.kulturbuch-verlag.de/?product_cat=soziales">Soziales</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-25"><a href="https://www.kulturbuch-verlag.de/?product_cat=stadtentwicklung">StadtEntwicklung</a> <span class="count">(26)</span></li>
+<li class="cat-item cat-item-28"><a href="https://www.kulturbuch-verlag.de/?product_cat=stadtumwelt">StadtUmwelt</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-31"><a href="https://www.kulturbuch-verlag.de/?product_cat=statistik">Statistik</a> <span class="count">(54)</span></li>
+<li class="cat-item cat-item-20"><a href="https://www.kulturbuch-verlag.de/?product_cat=steuer">Steuer</a> <span class="count">(13)</span></li>
+<li class="cat-item cat-item-23"><a href="https://www.kulturbuch-verlag.de/?product_cat=umwelt">Umwelt</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-39"><a href="https://www.kulturbuch-verlag.de/?product_cat=zeitschriften">Zeitschriften</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-37"><a href="https://www.kulturbuch-verlag.de/?product_cat=zeitschriften-einbanddecken">Zeitschriften - Einbanddecken</a> <span class="count">(11)</span></li>
+<li class="cat-item cat-item-16"><a href="https://www.kulturbuch-verlag.de/?product_cat=zeitschriften-geb-jahrgaenge">Zeitschriften - geb. Jahrgänge</a> <span class="count">(28)</span></li>
+</ul></div><div id="woocommerce_product_tag_cloud-2" class="widget"><h3>Produkt Schlagwörter</h3><div class="tagcloud"><a href="https://www.kulturbuch-verlag.de/?product_tag=deutsch" class="tag-cloud-link tag-link-45 tag-link-position-1" style="font-size: 8pt;" aria-label="Deutsch (283 products)">Deutsch</a></div></div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<footer class="motopress-wrapper footer">
+			<div class="container">
+				<div class="row">
+					<div class="span12" data-motopress-wrapper-file="wrapper/wrapper-footer.php" data-motopress-wrapper-type="footer" data-motopress-id="5b27da5d89c5d">
+						<div class="row footer-widgets">
+	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-1">
+		<div id="media_image-3"><img width="150" height="34" src="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/08/kbv_logo3-300x67.png" class="image wp-image-1376  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://www.kulturbuch-verlag.de/wp-content/uploads/2017/08/kbv_logo3-300x67.png 300w, https://www.kulturbuch-verlag.de/wp-content/uploads/2017/08/kbv_logo3.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></div>	</div>
+	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-2">
+		<div id="nav_menu-3" class="visible-all-devices "><h4>Informationen</h4><div class="menu-footermenue-container"><ul id="menu-footermenue" class="menu"><li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://www.kulturbuch-verlag.de/?page_id=478">Kontakt</a></li>
+<li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://www.kulturbuch-verlag.de/?page_id=467">Impressum</a></li>
+<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://www.kulturbuch-verlag.de/?page_id=480">Haftungsausschluss (Disclaimer)</a></li>
+<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="https://www.kulturbuch-verlag.de/?page_id=476">Datenschutzerklärung</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489"><a href="https://www.kulturbuch-verlag.de/?page_id=470">Allgemeine Geschäftsbedingungen (AGB)</a></li>
+</ul></div></div>	</div>
+	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-3">
+		<div id="nav_menu-2" class="visible-all-devices "><h4>Wichtige Links</h4><div class="menu-footermenue-2-container"><ul id="menu-footermenue-2" class="menu"><li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494"><a href="https://www.kulturbuch-verlag.de/?page_id=4">Shop</a></li>
+<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="https://www.kulturbuch-verlag.de/?page_id=444">Unser Tipp</a></li>
+<li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491"><a href="https://www.kulturbuch-verlag.de/?page_id=451">Neuankündigungen</a></li>
+<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="https://www.kulturbuch-verlag.de/?page_id=426">Der Verlag</a></li>
+</ul></div></div>	</div>
+	<div class="span3" data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-4">
+			</div>
+</div>
+<div class="row copyright">
+	<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-footer-nav.php">
+			</div>
+	<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-footer-text.php">
+		<div id="footer-text" class="footer-text">
+	
+			© 2018 Kulturbuch-Verlag GmbH - www.kulturbuch-verlag.de   -  Alle Rechte vorbehalten.				<!-- {%FOOTER_LINK} -->
+	</div>	</div>
+</div>					</div>
+				</div>
+			</div>
+		</footer>
+		<!--End #motopress-main-->
+	</div>
+	<div id="back-top-wrapper" class="visible-desktop">
+		<p id="back-top">
+			<a href="#top"><span></span></a>		</p>
+	</div>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpmenucart_ajax = {"ajaxurl":"https:\/\/www.kulturbuch-verlag.de\/wp-admin\/admin-ajax.php","nonce":"14af460125"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce-menu-bar-cart/javascript/wpmenucart.js?ver=2.6.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.kulturbuch-verlag.de\/index.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Bitte best\u00e4tige, dass du keine Maschine bist."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.kulturbuch-verlag.de\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Warenkorb anzeigen","cart_url":"https:\/\/www.kulturbuch-verlag.de\/?page_id=5","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.kulturbuch-verlag.de\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=3.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.kulturbuch-verlag.de\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_6a82cc540ef039056fea0ebd93c03957"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=3.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aws_vars = {"sale":"Sale!","noresults":"Noch nichts gefunden ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/advanced-woo-search/assets/js/common.js?ver=1.27'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.6.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/tmstickup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/device.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.debouncedresize.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.ba-resize.min.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/CherryFramework/js/jquery.isotope.js?ver=1.5.25'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/plugins/carousel-slider/assets/js/vendors/owl.carousel.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-content/themes/theme49016/js/custom-script.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.kulturbuch-verlag.de/wp-includes/js/wp-embed.js?ver=4.9.6'></script>
+                <svg width="1" height="1" style="display: none;">
+                    <symbol id="icon-arrow-left" viewBox="0 0 20 20">
+                        <path d="M14 5l-5 5 5 5-1 2-7-7 7-7z"></path>
+                    </symbol>
+                    <symbol id="icon-arrow-right" viewBox="0 0 20 20">
+                        <path d="M6 15l5-5-5-5 1-2 7 7-7 7z"></path>
+                    </symbol>
+                </svg>
+                <script type="text/javascript">
+                    jQuery(document).ready(function ($) {
+
+                        $('body').find('.carousel-slider').each(function () {
+                            var _this = $(this);
+                            var isVideo = _this.data('slide-type') === 'video-carousel';
+                            var videoWidth = isVideo ? _this.data('video-width') : false;
+                            var videoHeight = isVideo ? _this.data('video-height') : false;
+                            var autoWidth = _this.data('auto-width');
+                            var stagePadding = parseInt(_this.data('stage-padding'));
+                            autoWidth = isVideo ? isVideo : autoWidth;
+                            stagePadding = stagePadding > 0 ? stagePadding : 0;
+
+                            if (jQuery().owlCarousel) {
+                                _this.owlCarousel({
+                                    stagePadding: stagePadding,
+                                    nav: _this.data('nav'),
+                                    dots: _this.data('dots'),
+                                    margin: _this.data('margin'),
+                                    loop: _this.data('loop'),
+                                    autoplay: _this.data('autoplay'),
+                                    autoplayTimeout: _this.data('autoplay-timeout'),
+                                    autoplaySpeed: _this.data('autoplay-speed'),
+                                    autoplayHoverPause: _this.data('autoplay-hover-pause'),
+                                    slideBy: _this.data('slide-by'),
+                                    lazyLoad: _this.data('lazy-load'),
+                                    video: isVideo,
+                                    videoWidth: videoWidth,
+                                    videoHeight: videoHeight,
+                                    autoWidth: autoWidth,
+                                    navText: [
+                                        '<svg class="carousel-slider-nav-icon" width="48" height="48"><use xlink:href="#icon-arrow-left"></use></svg>',
+                                        '<svg class="carousel-slider-nav-icon" width="48" height="48"><use xlink:href="#icon-arrow-right"></use></svg>'
+                                    ],
+                                    responsive: {
+                                        320: {items: _this.data('colums-mobile')},
+                                        600: {items: _this.data('colums-small-tablet')},
+                                        768: {items: _this.data('colums-tablet')},
+                                        993: {items: _this.data('colums-small-desktop')},
+                                        1200: {items: _this.data('colums-desktop')},
+                                        1921: {items: _this.data('colums')}
+                                    }
+                                });
+                            }
+
+                            if (jQuery().magnificPopup) {
+                                var popupType = _this.data('slide-type') === 'product-carousel' ? 'ajax' : 'image';
+                                var popupGallery = _this.data('slide-type') !== 'product-carousel';
+                                $(this).find('.magnific-popup').magnificPopup({
+                                    type: popupType,
+                                    gallery: {
+                                        enabled: popupGallery
+                                    },
+                                    zoom: {
+                                        enabled: popupGallery,
+                                        duration: 300,
+                                        easing: 'ease-in-out'
+                                    }
+                                });
+                            }
+                        });
+                    });
+                </script>			<script>
+			(function($) {
+				$(window).load(function() {
+					if ($('.widget_shopping_cart_content').is(':empty')) {
+						$('.widget_shopping_cart_content').text('No products in the cart.');
+					}
+				});
+			})(jQuery);
+			</script>
+						<script type="text/javascript">
+				deleteCookie('cf-cookie-banner');
+			</script>
+			 <!-- this is used by many Wordpress features and for plugins to work properly -->
+</body>
+</html>

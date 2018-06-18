@@ -1,0 +1,1953 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]><html lang="de" dir="ltr" class="no-js old-ie"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="de" dir="ltr" class="no-js"><!--<![endif]-->
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>Konsularinformationen - Auswärtiges Amt</title>
+<link rel="shortcut icon"  href="/blob/1802/1b7353103b8d6217aab10f2706fa4c4d/homepage-de-favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57"  href="/static/appdata/includes/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60"  href="/static/appdata/includes/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72"  href="/static/appdata/includes/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76"  href="/static/appdata/includes/favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114"  href="/static/appdata/includes/favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120"  href="/static/appdata/includes/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144"  href="/static/appdata/includes/favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152"  href="/static/appdata/includes/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180"  href="/static/appdata/includes/favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" sizes="32x32" type="image/png" href="/static/appdata/includes/favicons/favicon-32x32.png">
+  <link rel="icon" sizes="192x192" type="image/png" href="/static/appdata/includes/favicons/android-chrome-192x192.png">
+  <link rel="icon" sizes="16x16" type="image/png" href="/static/appdata/includes/favicons/favicon-16x16.png">
+  <meta name="keywords" content=""/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta name="author" content="Auswärtiges Amt"/>
+      <meta name="robots" content="follow, index, noarchive, nosnippet, noodp, noydir"/>
+      <meta name="revisit-after" content="7 days"/>
+      <meta property="og:type" content="website"/>
+
+<meta property="og:image" content="https://www.auswaertiges-amt.de/image/301616/16x9/450/253/3c09a33560917bf2920923707b64a47f/fY/reisepass.jpg">
+  <meta name="twitter:image" content="https://www.auswaertiges-amt.de/image/301616/16x9/450/253/3c09a33560917bf2920923707b64a47f/fY/reisepass.jpg">
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta property="og:url" content="https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo"/>
+<meta property="og:locale" content="de" />
+
+<meta property="og:description" content="Webseite des Auswärtigen Amts"/>
+  <meta name="description" content="Webseite des Auswärtigen Amts"/>
+  <meta name="twitter:description" content="Webseite des Auswärtigen Amts"/>
+<meta property="og:site_name" content="Auswärtiges Amt DE"/>
+<meta name="twitter:title" content="Auswärtiges Amt - Auswärtiges Amt"/>
+<meta property="og:title" content="Auswärtiges Amt - Auswärtiges Amt"/>
+
+<meta name="twitter:site" content="auswaertigesamt"/>
+<link rel="stylesheet" type="text/css" href="/resources/768/41/styles.css" media='screen'/>
+  <!--[if if lte IE 9]>
+  <link rel="stylesheet" type="text/css" href="/resources/766/38/universal.css" media='screen'/>
+  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="/resources/770/5/label-css.css"/>
+  <link rel="stylesheet" type="text/css" href="/resources/808/3/duplicate.css" media='screen'/>
+  <link rel="stylesheet" type="text/css" href="/resources/754/38/print.css" media="print" />
+<script>
+(function() {
+
+   // Optimization for Repeat Views
+   if( sessionStorage.foftFontsLoaded ) {
+      document.documentElement.className += " is-font-bundle-1-loaded is-font-bundle-2-loaded";
+      return;
+   }
+
+   // promise polyfill
+   (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}}
+      function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})};
+      function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+
+   // FontFaceObserver https://github.com/bramstein/fontfaceobserver
+   (function(){function m(a,b){document.addEventListener?a.addEventListener("scroll",b,!1):a.attachEvent("scroll",b)}function n(a){document.body?a():document.addEventListener?document.addEventListener("DOMContentLoaded",function c(){document.removeEventListener("DOMContentLoaded",c);a()}):document.attachEvent("onreadystatechange",function l(){if("interactive"==document.readyState||"complete"==document.readyState)document.detachEvent("onreadystatechange",l),a()})};function t(a){this.a=document.createElement("div");this.a.setAttribute("aria-hidden","true");this.a.appendChild(document.createTextNode(a));this.b=document.createElement("span");this.c=document.createElement("span");this.h=document.createElement("span");this.f=document.createElement("span");this.g=-1;this.b.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.c.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";
+   this.f.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;max-width:none;";this.b.appendChild(this.h);this.c.appendChild(this.f);this.a.appendChild(this.b);this.a.appendChild(this.c)}
+   function x(a,b){a.a.style.cssText="max-width:none;min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;left:-999px;white-space:nowrap;font:"+b+";"}function y(a){var b=a.a.offsetWidth,c=b+100;a.f.style.width=c+"px";a.c.scrollLeft=c;a.b.scrollLeft=a.b.scrollWidth+100;return a.g!==b?(a.g=b,!0):!1}function z(a,b){function c(){var a=l;y(a)&&a.a.parentNode&&b(a.g)}var l=a;m(a.b,c);m(a.c,c);y(a)};function A(a,b){var c=b||{};this.family=a;this.style=c.style||"normal";this.weight=c.weight||"normal";this.stretch=c.stretch||"normal"}var B=null,C=null,E=null,F=null;function I(){if(null===E){var a=document.createElement("div");try{a.style.font="condensed 100px sans-serif"}catch(b){}E=""!==a.style.font}return E}function J(a,b){return[a.style,a.weight,I()?a.stretch:"","100px",b].join(" ")}
+   A.prototype.load=function(a,b){var c=this,l=a||"BESbswy",r=0,D=b||3E3,G=(new Date).getTime();return new Promise(function(a,b){var e;null===F&&(F=!!document.fonts);if(e=F)null===C&&(C=/OS X.*Version\/10\..*Safari/.test(navigator.userAgent)&&/Apple/.test(navigator.vendor)),e=!C;if(e){e=new Promise(function(a,b){function f(){(new Date).getTime()-G>=D?b():document.fonts.load(J(c,'"'+c.family+'"'),l).then(function(c){1<=c.length?a():setTimeout(f,25)},function(){b()})}f()});var K=new Promise(function(a,
+   c){r=setTimeout(c,D)});Promise.race([K,e]).then(function(){clearTimeout(r);a(c)},function(){b(c)})}else n(function(){function e(){var b;if(b=-1!=g&&-1!=h||-1!=g&&-1!=k||-1!=h&&-1!=k)(b=g!=h&&g!=k&&h!=k)||(null===B&&(b=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),B=!!b&&(536>parseInt(b[1],10)||536===parseInt(b[1],10)&&11>=parseInt(b[2],10))),b=B&&(g==u&&h==u&&k==u||g==v&&h==v&&k==v||g==w&&h==w&&k==w)),b=!b;b&&(d.parentNode&&d.parentNode.removeChild(d),clearTimeout(r),a(c))}
+   function H(){if((new Date).getTime()-G>=D)d.parentNode&&d.parentNode.removeChild(d),b(c);else{var a=document.hidden;if(!0===a||void 0===a)g=f.a.offsetWidth,h=p.a.offsetWidth,k=q.a.offsetWidth,e();r=setTimeout(H,50)}}var f=new t(l),p=new t(l),q=new t(l),g=-1,h=-1,k=-1,u=-1,v=-1,w=-1,d=document.createElement("div");d.dir="ltr";x(f,J(c,"sans-serif"));x(p,J(c,"serif"));x(q,J(c,"monospace"));d.appendChild(f.a);d.appendChild(p.a);d.appendChild(q.a);document.body.appendChild(d);u=f.a.offsetWidth;v=p.a.offsetWidth;
+   w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-serif'));z(p,function(a){h=a;e()});x(p,J(c,'"'+c.family+'",serif'));z(q,function(a){k=a;e()});x(q,J(c,'"'+c.family+'",monospace'))})})};"undefined"!==typeof module?module.exports=A:(window.FontFaceObserver=A,window.FontFaceObserver.prototype.load=A.prototype.load);}());
+
+   var bundesSansWeb400 = new FontFaceObserver('BundesSansweb', {
+     weight: 400
+   });
+
+   Promise.all([bundesSansWeb400.load()]).then(function () {
+      document.documentElement.className += ' is-font-bundle-1-loaded';
+
+      var bundesSansWeb700 = new FontFaceObserver('BundesSansWeb', {
+        weight: 700
+      });
+      var bundesSerifWeb400 = new FontFaceObserver('BundesSerifWeb', {
+        weight: 400
+      });
+      var bundesSerifWeb400i = new FontFaceObserver('BundesSerifWeb', {
+        weight: 400,
+        style: 'italic'
+      });
+      var bundesSerifWeb700i = new FontFaceObserver('BundesSerifWeb', {
+        weight: 700,
+        style: 'italic'
+      });
+
+      Promise.all([
+         bundesSansWeb700.load(),
+         bundesSerifWeb400.load(),
+         bundesSerifWeb400i.load(),
+         bundesSerifWeb700i.load()
+      ]).then(function () {
+         document.documentElement.className += ' is-font-bundle-2-loaded';
+
+         // Optimization for Repeat Views
+         sessionStorage.foftFontsLoaded = true;
+      });
+   });
+})();
+</script><script>!function () {
+  function e(e, n, t) {
+    "use strict";
+    var o = window.document.createElement("link"), r = n || window.document.getElementsByTagName("script")[0], a = window.document.styleSheets;
+    return o.rel = "stylesheet", o.href = e, o.media = "only x", r.parentNode.insertBefore(o, r), o.onloadcssdefined = function (e) {
+      for (var n, t = 0; t < a.length; t++)a[t].href && a[t].href === o.href && (n = !0);
+      n ? e() : setTimeout(function () {
+            o.onloadcssdefined(e)
+          })
+    }, o.onloadcssdefined(function () {
+      o.media = t || "all"
+    }), o
+  }
+
+  function n(e, n) {
+    e.onload = function () {
+      e.onload = null, n && n.call(e)
+    }, "isApplicationInstalled" in navigator && "onloadcssdefined" in e && e.onloadcssdefined(n)
+  }
+
+  !function (t) {
+    var o = function (r, a) {
+      "use strict";
+      if (r && 3 === r.length) {
+        var i = t.navigator, c = t.document, s = t.Image, d = !(!c.createElementNS || !c.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !c.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || t.opera && -1 === i.userAgent.indexOf("Chrome") || -1 !== i.userAgent.indexOf("Series40")), l = new s;
+        l.onerror = function () {
+          o.method = "png", o.href = r[2], e(r[2])
+        }, l.onload = function () {
+          var t = 1 === l.width && 1 === l.height, i = r[t && d ? 0 : t ? 1 : 2];
+          t && d ? o.method = "svg" : t ? o.method = "datapng" : o.method = "png", o.href = i, n(e(i), a)
+        }, l.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", c.documentElement.className += " grunticon"
+      }
+    };
+    o.loadCSS = e, o.onloadCSS = n, t.grunticon = o
+  }(this), function (e, n) {
+    "use strict";
+    var t = n.document, o = "grunticon:", r = function (e) {
+      if (t.attachEvent ? "complete" === t.readyState : "loading" !== t.readyState) e(); else {
+        var n = !1;
+        t.addEventListener("readystatechange", function () {
+          n || (n = !0, e())
+        }, !1)
+      }
+    }, a = function (e) {
+      return n.document.querySelector('link[href$="' + e + '"]')
+    }, i = function (e) {
+      var n, t, r, a, i, c, s = {};
+      if (n = e.sheet, !n)return s;
+      t = n.cssRules ? n.cssRules : n.rules;
+      for (var d = 0; d < t.length; d++)r = t[d].cssText, a = o + t[d].selectorText, i = r.split(");")[0].match(/US\-ASCII\,([^"']+)/), i && i[1] && (c = decodeURIComponent(i[1]), s[a] = c);
+      return s
+    }, c = function (e) {
+      var n, r, a, i;
+      a = "data-grunticon-embed";
+      for (var c in e) {
+        i = c.slice(o.length);
+        try {
+          n = t.querySelectorAll(i)
+        } catch (s) {
+          continue
+        }
+        r = [];
+        for (var d = 0; d < n.length; d++)null !== n[d].getAttribute(a) && r.push(n[d]);
+        if (r.length)for (d = 0; d < r.length; d++)r[d].innerHTML = e[c], r[d].style.backgroundImage = "none", r[d].removeAttribute(a)
+      }
+      return r
+    }, s = function (n) {
+      "svg" === e.method && r(function () {
+        c(i(a(e.href))), "function" == typeof n && n()
+      })
+    };
+    e.embedIcons = c, e.getCSS = a, e.getIcons = i, e.ready = r, e.svgLoadedCallback = s, e.embedSVG = s
+  }(grunticon, this)
+}();</script><script>
+    
+    grunticon([
+      
+      "/resources/182/38/icons-data-svg.css"
+      
+      ,
+      
+      "/resources/184/38/icons-data-png.css"
+      
+      ,
+      
+      "/resources/186/37/icons-fallback.css"
+      
+    ], grunticon.svgLoadedCallback);
+  </script>
+<noscript>
+    <link href="/resources/186/37/icons-fallback.css" rel="stylesheet"/>
+  </noscript>
+</head>
+<body class=" "  data-not-searchable="301550">
+<div >
+  <nav class="c-skiplinks" data-css="c-skiplinks">
+  <h2 class="skiplinks__headline">Navigation und Service</h2>
+
+  <p class="skiplinks__text"><em>Direkt zu:</em></p>
+  <ul class="skiplink__list">
+    <li class="skiplink__list-item"><a class="skiplink__link" href="#main">Inhalt</a></li>
+    <li class="skiplink__list-item"><a class="skiplink__link" href="#nav__primary">Hauptmenü</a></li>
+    <li class="skiplink__list-item"><a class="skiplink__link" href="#footer_search">Suche {0}</a></li>
+  </ul>
+</nav><div class="c-cookie-banner--default is-hidden" data-css="c-cookie-banner" data-js-module="cookie-banner"
+     data-js-options="{&quot;cookieExpiresAfterDays&quot;:2}">
+
+  <div class="cookie-banner__content">
+    <h2 class="is-aural">Wir verwenden Cookies</h2>
+    <span class="cookie-banner__text">Diese Seite verwendet Cookies, um Ihnen den bestmöglichen Service zu gewährleisten.</span>
+    <div class="cookie-banner__buttons-wrapper">
+      <button
+              class="c-cta--cookie is-close"
+              data-css="c-cta"
+              data-js-atom="cookie-banner-close">
+								<span class="cta__content-wrapper">
+										<span class="cta__icon i-close" data-grunticon-embed="true"></span>
+									<span class="cta__content" data-js-item="cta-content">
+                    Einverstanden</span>
+							</span>
+      </button>
+      <a class="c-cta--cookie is-more"
+           data-css="c-cta" title="Mehr Informationen"
+           href="/de/-/237472">
+								<span class="cta__content-wrapper">
+										<span class="cta__icon i-arrow-right-100" data-grunticon-embed="true"></span>
+									<span class="cta__content" data-js-item="cta-content">Mehr Informationen</span>
+							</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+<header id="header" data-css="c-header"
+        class="c-header--default">
+
+  <div class="header__inner">
+    <div class="header__left">
+      <div class="c-logo ">
+    <a class="logo__link" href="/de" title="Auswärtiges Amt">
+        <picture class="c-picture--logo" data-css="c-picture">
+
+            <source srcset="/blob/772/47f731c5aa09d415e52ad2d35c55a7be/aamt-logo-sp-data.svg" media="(max-width:707px)" data-logotext="Smartphone Logo Text"/>
+
+                <source srcset="/blob/774/043b311bf7ef66e7fe96e3da3f0c8bb4/aamt-logo-tb-data.svg" media="(min-width:708px) and (max-width:1039px)" data-logotext="Tablet Logo Text"/>
+
+                <source srcset="/blob/200/b26f8a6a21790f0822b0b21a2a92ac4b/aamt-logo-dt-data.svg" media="(min-width:1040px)" data-logotext="Desktop Logo Text"/>
+
+                <img class="picture__image "
+                 src="/blob/772/47f731c5aa09d415e52ad2d35c55a7be/aamt-logo-sp-data.svg" alt="Zur Startseite - Logo des Auswärtigen Amts" data-logotext="Zur Startseite - Logo des Auswärtigen Amts"
+                data-sizes="auto"/>
+        </picture>
+        <span class="logo__title">Auswärtiges Amt</span>
+</a></div></div>
+
+    <div class="header__right">
+      <div class="c-metanavigation--default is-desktop-visible"
+     data-css="c-metanavigation">
+  <nav class="metanavigation__nav">
+    <h2 class="metanavigation__nav-headline is-aural">Seitennavigation</h2>
+    <ul class="metanavigation__linklist">
+      <li class="metanavigation__linklist-item">
+            <a href="/de/newsroom/buergerservice-faq-kontakt" title="" class="metanavigation__link is-sign-mail">
+  <span class="metanavigation__link-content">Kontakt</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-mail" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item">
+            <a href="/de/gebaerdensprache" title="" class="metanavigation__link is-sign-language">
+  <span class="metanavigation__link-content">Gebärdensprache</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-gebaerdensprache" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item">
+            <a href="/de/leichte-sprache" title="" class="metanavigation__link is-easy-language">
+  <span class="metanavigation__link-content">Leichte Sprache</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-leichte-sprache" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item is-mobile-visible">
+    <form class="metanavigation__mobile-language-form" method="get" action="#">
+        <label for="language-switcher" class="is-aural">Sprachauswahl:</label>
+        <select id="language-switcher" class="metanavigation__mobile-language-select" data-js-module="selectbox">
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo"
+                    selected="selected"
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_Deutsch']">Deutsch</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="https://www.auswaertiges-amt.de/en/newsroom/news/konsularisches"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_English']">English</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="https://www.auswaertiges-amt.de/fr"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_Français']">Français</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="https://alemaniaparati.diplo.de/mxdz-es"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_Español']">Español</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="http://www.alemanja.diplo.de"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_Português']">Português</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="http://www.almania.diplo.de/"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_عربي']">عربي</option>
+            <option class="metanavigation__mobile-language-option" data-js-atom="option" value="https://germania.diplo.de/ru-ru"
+                    
+                        data-tracking-action="['trackEvent', 'Sprachumschalter', 'Sprachauswahl', 'SU_Русский']">Русский</option>
+            </select>
+    </form>
+  </li>
+<li class="metanavigation__linklist-item is-desktop-visible">
+    <button class="c-cta--language-switcher" data-css="c-cta" data-js-module="cta"
+            data-js-options="{&quot;globalEvent&quot;:&quot;cta:openLanguageSwitcher&quot;,&quot;closedLabel&quot;:&quot;Deutsch&quot;,&quot;openedLabel&quot;:&quot;Schließen&quot;}"
+            title="Deutsch" aria-expanded="false">
+        <span class="cta__content" data-js-item="cta-content"><span class="cta-content-text">Deutsch</span></span>
+        <span class="cta__icon i-language-switcher" data-grunticon-embed="true"></span>
+        <em class="cta__content-icon-arrow cta__content-icon-close">öffnen<span></span></em>
+    </button>
+    <div class="c-toggler--link-list is-closed" data-css="c-toggler" data-js-module="toggler"
+         data-js-options="{&quot;globalEvent&quot;:&quot;cta:openLanguageSwitcher&quot;}" data-js-height="255"
+         aria-hidden="true" style="">
+        <div class="toggler__wrapper">
+            <div class="c-link-list--languages" data-css="c-link-list">
+                <h3 class="link-list__headline">Sprachauswahl</h3>
+                <ul class="link-list__list">
+                    <li class="link-list__list-item is-active">
+                            <a class="link-list__link" href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo" title="Deutsch"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Deutsch&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Deutsch</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://www.auswaertiges-amt.de/en/newsroom/news/konsularisches" title="English"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_English&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">English</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://www.auswaertiges-amt.de/fr" title="Français"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Français&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Français</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://alemaniaparati.diplo.de/mxdz-es" title="Español"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Español&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Español</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="http://www.alemanja.diplo.de" title="Português"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Português&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Português</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="http://www.almania.diplo.de/" title="عربي"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_عربي&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">عربي</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://germania.diplo.de/ru-ru" title="Русский"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Русский&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Русский</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</li>
+</ul>
+  </nav>
+</div><button class="c-cta--search-toggle" data-css="c-cta" data-js-module="cta"
+          data-js-options="{&quot;globalEvent&quot;:&quot;cta:openSearchOverlay&quot;}"
+          title="Suche öffnen" aria-expanded="false">
+      <span class="cta__icon i-magnifier" data-grunticon-embed="true"></span>
+      <span class="cta__content" data-js-item="cta-content">Suche öffnen</span>
+  </button>
+  <div class="c-toggler--search-toggle is-closed" data-css="c-toggler" data-js-module="toggler"
+       data-js-options="{&quot;globalEvent&quot;:&quot;cta:openSearchOverlay&quot;,&quot;calculateHeight&quot;:false}">
+      <div class="toggler__wrapper">
+          <div class="u-grid-row">
+              <div class="u-grid-col">
+                  <div class="c-search--overlay" data-css="c-search" data-js-module="search"
+                       data-js-options="{&quot;autoselect&quot;:&quot;false&quot;,&quot;url&quot;:&quot;/static/appdata/filter/de/taxonomyautocomplete.json&quot;,&quot;textNoResults&quot;:&quot;search-text-no-results&quot;,&quot;textResults&quot;:&quot;search-text-results&quot;,&quot;filterSuggestions&quot;:true,&quot;customSubmit&quot;:&quot;customformat&quot;}">
+                      <h2 class="search__headline">Wonach suchen Sie?</h2>
+                      <div class="search__wrapper">
+                          <form class="search__form" action="/de/search" method="get" data-js-atom="search-form">
+                              <fieldset class="search__control-group">
+                                  <legend class="is-aural">Inhalt</legend>
+                                  <label class="is-aural" for="search-input-1802">Geben Sie ein Suchwort ein</label>
+                                  <input type="search" placeholder="Was suchen Sie?" class="search__input" name="search" id="search-input-1802" data-js-atom="input">
+                                  <button type="submit" class="search__submit-btn" data-js-atom="submit">
+                                      <span class="search__submit-btn-text">Suche</span>
+                                      <span class="i-magnifier" data-grunticon-embed="true"></span>
+                                  </button>
+                              </fieldset>
+                          </form>
+                          <div class="search__helper-text-wrapper">
+                              <span data-js-atom="search-text-results">Anzahl gefundener Suchergebnisse:</span>
+                              <span data-js-atom="search-text-no-results"> </span>
+                          </div>
+                      </div>
+                      <div class="search__tags-wrap">
+                          <a href="/de/newsroom/Themenseiten" class="search__tags-link" title="Schlagworte A – Z">
+                                      <div class="search__icon-wrapper">
+                                              <span class="search__az-icon i-az" data-grunticon-embed="true"></span>
+                                          </div>
+                                      <div class="search__list-content-wrapper">
+                                          <span class="search__list-content">Schlagworte A – Z</span>
+                                      </div>
+                                  </a>
+                              </div>
+                      <button class="c-cta--search-overlay-toggle"
+                          data-css="c-cta"
+                          type="button"
+                          data-js-atom="search-overlay-close">
+                            <span class="cta__icon "></span>
+                            <span class="cta__content" data-js-item="cta-content">Suche schließen</span>
+                      </button>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+<div class="c-nav-primary" data-css="c-nav-primary" data-js-module="nav-primary" id="nav__primary">
+      <button class="nav-primary__hamburger" data-js-atom="trigger-nav" aria-controls="navigation" aria-expanded="false">
+          <span class="nav-primary__hamburger-icon"></span>
+          <span class="nav-primary__hamburger-title is-inactive-text">Menü</span>
+          <span class="nav-primary__hamburger-title is-active-text">schließen</span>
+      </button>
+
+      <div class="nav-primary__wrapper" id="navigation" data-js-atom="navigation-wrapper">
+        <nav class="nav-primary__content" data-js-atom="navigation-content">
+          <h2 class="nav-primary__headline">Menü</h2>
+          <ul class="nav-primary__list">
+            <li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta " data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="214118-nav">
+        Einreise und Aufenthalt</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="214118-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">Einreise und Aufenthalt</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/einreiseundaufenthalt" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/einreiseundaufenthalt/01-deutschland" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Informationen über Deutschland&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Informationen über Deutschland</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/einreiseundaufenthalt/visabestimmungen-node" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Visa für die Einreise nach Deutschland&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Visa für die Einreise nach Deutschland</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/einreiseundaufenthalt/02-lernen-und-arbeiten" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Lernen und Arbeiten in Deutschland&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Lernen und Arbeiten in Deutschland</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/einreiseundaufenthalt/zuwanderungsrecht-node" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zuwanderungsgesetz&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Zuwanderungsgesetz</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/einreiseundaufenthalt/asylrecht-node" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Asylrecht&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Asylrecht</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li><li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta " data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="216408-nav">
+        Auswärtiges Amt</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="216408-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">Auswärtiges Amt</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/aamt" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/leitung" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Die Leitung&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Die Leitung</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/auswdienst" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Der Auswärtige Dienst&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Der Auswärtige Dienst</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/koordinatoren" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Koordinatoren und Beauftragte&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Koordinatoren und Beauftragte</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/auslandsvertretungen-node" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Auslandsvertretungen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Auslandsvertretungen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/aussenpolitiklive" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Außenpolitik Live&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Außenpolitik Live</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/krisenreaktionszentrum-node" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Krisenreaktionszentrum&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Krisenreaktionszentrum</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/politisches-archiv" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Das Politische Archiv&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Das Politische Archiv</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/zugastimaa" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zu Gast im Auswärtigen Amt&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Zu Gast im Auswärtigen Amt</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/geschichte-des-auswaertigen-amts" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Geschichte und Gebäude&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Geschichte und Gebäude</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/bm-reisen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Reisen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Reisen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aamt/auswaertiges-amt-organisationsplan/1893348" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Organisationsplan&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Organisationsplan</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li><li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta is-active" data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="301550-nav">
+        <span class="nav-primary__active-item-text">Sie sind hier:</span>
+        Reise und Sicherheit</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="301550-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">Reise und Sicherheit</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/ReiseUndSicherheit" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Reise- und Sicherheitshinweise A-Z&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Reise- und Sicherheitshinweise A-Z</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/10.2.8Reisewarnungen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Aktuelle Reisewarnungen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Aktuelle Reisewarnungen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/elefand/301844" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Tragen Sie sich in die Krisenvorsorgeliste ein!&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Tragen Sie sich in die Krisenvorsorgeliste ein!</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/letzteaktualisierungen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Reise- und Sicherheit: Letzte Aktualisierungen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Reise- und Sicherheit: Letzte Aktualisierungen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/reisemedizin/-/350944" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Denken Sie an Ihre Reisekrankenversicherung!&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Denken Sie an Ihre Reisekrankenversicherung!</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/reisemedizin" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Reisen und Gesundheit&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Reisen und Gesundheit</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <strong class="nav-primary__second-level-item nav-primary__second-level-cta">
+          <span class="nav-primary__second-level-cta-content">
+        Konsularischer Service: Konsularinformationen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></strong>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/deutsche-auslandsvertretungen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Deutsche Auslandsvertretungen in Ihrem Reiseland&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Deutsche Auslandsvertretungen in Ihrem Reiseland</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/ReiseUndSicherheit/vertretungen-anderer-staaten" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Vertretungen Ihres Reiselandes in Deutschland&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Vertretungen Ihres Reiselandes in Deutschland</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/app-sicher-reisen/350382" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Sicher Reisen - Ihre Reise-App&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Sicher Reisen - Ihre Reise-App</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li><li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta " data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="216466-nav">
+        Außen- und Europapolitik</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="216466-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">Außen- und Europapolitik</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/aussenpolitik" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/aussenpolitik/themen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Themen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Themen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aussenpolitik/europa" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Europa&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Europa</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aussenpolitik/laender" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Länderinformationen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Länderinformationen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aussenpolitik/regionaleschwerpunkte" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Regionen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Regionen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/aussenpolitik/internationale-organisationen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Internationale Organisationen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Internationale Organisationen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li><li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta " data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="215482-nav">
+        Ausbildung und Karriere</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="215482-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">Ausbildung und Karriere</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/uebersicht-node-ausbildungkarriere" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/uebersicht-node-ausbildungkarriere/aamt" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Arbeiten im Auswärtigen Amt&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Arbeiten im Auswärtigen Amt</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/uebersicht-node-ausbildungkarriere/stellenangebote" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Stellenangebote&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Stellenangebote</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/uebersicht-node-ausbildungkarriere/io" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Tätigkeit bei Internationalen Organisationen und EU&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Tätigkeit bei Internationalen Organisationen und EU</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/uebersicht-node-ausbildungkarriere/internationalediplomatenausbildung" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Internationale Diplomatenausbildung&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Internationale Diplomatenausbildung</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/uebersicht-node-ausbildungkarriere/ausbildungkarriere" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Informationsveranstaltungen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Informationsveranstaltungen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li><li class="nav-primary__list-item">
+<button class="nav-primary__first-level-cta " data-js-atom="trigger-sub-list"
+            aria-expanded="false" aria-controls="298502-nav">
+        News und Service</button>
+
+    <div class="nav-primary__second-level-wrapper" data-js-atom="second-level-wrapper" id="298502-nav" aria-hidden="true">
+
+        <div class="nav-primary__sub-list-wrapper">
+            <h3 class="nav-primary__sub-list-title">News und Service</h3>
+            <ul class="nav-primary__sub-list">
+                <li class="nav-primary__sub-list-item is-highlight">
+  <a href="/de/newsroom" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Zur Übersicht&#x27;]">
+    <span class="nav-primary__second-level-item-wrapper">
+        <span class="nav-primary__second-level-cta-content">Zur Übersicht</span>
+        <span class="nav-primary__second-level-cta-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+    </span>
+  </a>
+</li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/news" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Newsroom&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Newsroom</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/mediathek" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Mediathek&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Mediathek</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/regierungspressekonferenz" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Regierungspressekonferenz&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Regierungspressekonferenz</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/buergerservice-faq-kontakt" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Bürgerservice, FAQ, Kontakt&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Bürgerservice, FAQ, Kontakt</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/newsletter" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Newsletter und RSS-Newsfeeds&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Newsletter und RSS-Newsfeeds</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/broschueren" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Publikationen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Publikationen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/web-archiv" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Web-Archiv&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Web-Archiv</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/besucherzentrum-kontakt" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Besucherzentrum&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Besucherzentrum</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/Themenseiten" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Themen A - Z&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Themen A - Z</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/ausschreibungen" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Öffentliche Aufträge&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Öffentliche Aufträge</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/datenschutz" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Datenschutz&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Datenschutz</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/korruptionspraevention" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Korruptionsprävention&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Korruptionsprävention</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/terminologie" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Terminologie&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Terminologie</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/informationsfreiheitsgesetz-open-government-partnership" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Informationsfreiheitsgesetz, Open Government Partnership&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Informationsfreiheitsgesetz, Open Government Partnership</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/SozialeMedien" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Soziale Medien&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Soziale Medien</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li><li class="nav-primary__sub-list-item">
+  <a href="/de/newsroom/konsularinfo" class="nav-primary__second-level-cta" data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Klick Hauptmenü&#x27;, &#x27;Konsularischer Service: Konsularinformationen&#x27;]">
+          <span class="nav-primary__second-level-cta-content">
+        Konsularischer Service: Konsularinformationen</span>
+    <span class="nav-primary__second-level-cta-icon"></span></a>
+    </li></ul>
+            <button class="nav-primary__sub-list-close" data-js-atom="close-sub-list">
+                <span class="nav-primary__sub-list-close-icon i-arrow_right-g" data-grunticon-embed="true"></span>
+                <span class="nav-primary__sub-list-close-content">Zurück <span class="is-aural">zur ersten Navigationsebene</span></span>
+            </button>
+        </div>
+
+    </div>
+
+    </li></ul>
+        </nav>
+
+        <h2 class="metanavigation__nav-headline is-aural">Navigation</h2>
+        <div class="c-metanavigation--nav-primary"
+     data-css="c-metanavigation">
+  <nav class="metanavigation__nav">
+    <h2 class="metanavigation__nav-headline is-aural">Seitennavigation</h2>
+    <ul class="metanavigation__linklist">
+      <li class="metanavigation__linklist-item">
+            <a href="/de/newsroom/buergerservice-faq-kontakt" title="" class="metanavigation__link is-sign-mail">
+  <span class="metanavigation__link-content">Kontakt</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-mail" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item">
+            <a href="/de/gebaerdensprache" title="" class="metanavigation__link is-sign-language">
+  <span class="metanavigation__link-content">Gebärdensprache</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-gebaerdensprache" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item">
+            <a href="/de/leichte-sprache" title="" class="metanavigation__link is-easy-language">
+  <span class="metanavigation__link-content">Leichte Sprache</span>
+  <span class="is-aural">Im neuen Tab öffnen</span>
+  <span class="metanavigation__link-icon i-leichte-sprache" data-grunticon-embed="true"></span>
+</a></li>
+        <li class="metanavigation__linklist-item is-desktop-visible">
+    <button class="c-cta--language-switcher" data-css="c-cta" data-js-module="cta"
+            data-js-options="{&quot;globalEvent&quot;:&quot;cta:openLanguageSwitcher&quot;,&quot;closedLabel&quot;:&quot;Deutsch&quot;,&quot;openedLabel&quot;:&quot;Schließen&quot;}"
+            title="Deutsch" aria-expanded="false">
+        <span class="cta__content" data-js-item="cta-content"><span class="cta-content-text">Deutsch</span></span>
+        <span class="cta__icon i-language-switcher" data-grunticon-embed="true"></span>
+        <em class="cta__content-icon-arrow cta__content-icon-close">öffnen<span></span></em>
+    </button>
+    <div class="c-toggler--link-list is-closed" data-css="c-toggler" data-js-module="toggler"
+         data-js-options="{&quot;globalEvent&quot;:&quot;cta:openLanguageSwitcher&quot;}" data-js-height="255"
+         aria-hidden="true" style="">
+        <div class="toggler__wrapper">
+            <div class="c-link-list--languages" data-css="c-link-list">
+                <h3 class="link-list__headline">Sprachauswahl</h3>
+                <ul class="link-list__list">
+                    <li class="link-list__list-item is-active">
+                            <a class="link-list__link" href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo" title="Deutsch"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Deutsch&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Deutsch</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://www.auswaertiges-amt.de/en/newsroom/news/konsularisches" title="English"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_English&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">English</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://www.auswaertiges-amt.de/fr" title="Français"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Français&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Français</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://alemaniaparati.diplo.de/mxdz-es" title="Español"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Español&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Español</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="http://www.alemanja.diplo.de" title="Português"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Português&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Português</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="http://www.almania.diplo.de/" title="عربي"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_عربي&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">عربي</span>
+                                </div>
+                            </a>
+                        </li>
+                    <li class="link-list__list-item ">
+                            <a class="link-list__link" href="https://germania.diplo.de/ru-ru" title="Русский"
+                               data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Sprachumschalter&#x27;, &#x27;Sprachauswahl&#x27;, &#x27;SU_Русский&#x27;]">
+                                <div class="link-list__content-wrapper">
+                                    <span class="link-list__list-content">Русский</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</li>
+</ul>
+  </nav>
+</div></div>
+  </div>
+</div>
+  </div>
+</header><div class="c-toggler--navigation-overlay-wrapper is-open"
+     data-css="c-toggler"
+     data-js-module="toggler"
+     data-js-options='{&quot;globalEvent&quot;:&quot;navPrimary:toggle&quot;,&quot;calculateHeight&quot;:false} '>
+    <div class="toggler__wrapper">
+        <main id="main">
+  <h1 class="is-aural">Willkommen auf den Seiten des Auswärtigen Amts</h1>
+  <div class="u-grid-row">
+  <div class="u-grid-col">
+    <header class="c-heading--default is-simple" data-css="c-heading">
+        <div class="heading__breadcrumb">
+    <nav class="c-breadcrumb " data-css="c-breadcrumb"
+        >
+      <h2 class="breadcrumb__headline"
+          id="breadcrumb__headline-">Sie befinden sich hier:</h2>
+      <div class="breadcrumb__content"
+           >
+        <div class="breadcrumb__list-wrapper">
+          <ol class="breadcrumb__list">
+            <li class="breadcrumb__list-item">
+                  <a href="/de" title="Startseite"
+                       class="breadcrumb__item-link">Startseite<span
+                          class="breadcrumb__icon i-breadcrumb"
+                          data-grunticon-embed="true"></span>
+                    </a>
+                    </li>
+              <li class="breadcrumb__list-item">
+                  <a href="/de/ReiseUndSicherheit" title="Reise und Sicherheit"
+                       class="breadcrumb__item-link">Reise und Sicherheit<span
+                          class="breadcrumb__icon i-breadcrumb"
+                          data-grunticon-embed="true"></span>
+                    </a>
+                    </li>
+              <li class="breadcrumb__list-item">
+                  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise" title="Reise- und Sicherheitshinweise A-Z"
+                       class="breadcrumb__item-link">Reise- und Sicherheitshinweise A-Z<span
+                          class="breadcrumb__icon i-breadcrumb"
+                          data-grunticon-embed="true"></span>
+                    </a>
+                    </li>
+              <li class="breadcrumb__list-item">
+                  <strong class="breadcrumb__item-active">Konsularischer Service: Konsularinformationen</strong>
+                    </li>
+              </ol>
+        </div>
+      </div>
+    </nav>
+  </div>
+<h1 class="heading__title">
+          <span class="heading__title-text">Konsularinformationen</span>
+        </h1>
+      </header>
+  </div>
+</div><section class="u-section  isnt-margintop " >
+  <div class="section__header">
+    <h2 class="section__headline ">Leben und Arbeiten im Ausland; Pässe und Ausweise; Ehe, Familie, Kinder und Scheidung</h2>
+</div>
+<div class="section__content">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/leben-und-arbeiten-im-ausland" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Leben und Arbeiten im Ausland']"
+     target="_self" title="Leben und Arbeiten im Ausland">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Leben und Arbeiten im Ausland</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/742558/16x9/340/191/d468dc66ab87df0e02c95ed8a6d5617f/Bc/leben-arbeiten.jpg 340w, /image/742558/16x9/450/253/d468dc66ab87df0e02c95ed8a6d5617f/nV/leben-arbeiten.jpg 450w, /image/742558/16x9/688/387/d468dc66ab87df0e02c95ed8a6d5617f/Ta/leben-arbeiten.jpg 688w, /image/742558/16x9/944/531/d468dc66ab87df0e02c95ed8a6d5617f/CA/leben-arbeiten.jpg 944w, /image/742558/16x9/1180/664/d468dc66ab87df0e02c95ed8a6d5617f/XM/leben-arbeiten.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Kaffeetrinkendes Pärchen" title="Leben und Arbeiten in Deutschland &copy; colourbox"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/reisepaesse-und-personalausweise" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Reisepässe und Personalausweise']"
+     target="_self" title="Reisepässe und Personalausweise">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Reisepässe und Personalausweise</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737430/16x9/340/191/623727d371c1332601a7ba7e94c6789b/uC/passport.jpg 340w, /image/737430/16x9/450/253/623727d371c1332601a7ba7e94c6789b/KD/passport.jpg 450w, /image/737430/16x9/688/387/623727d371c1332601a7ba7e94c6789b/Bs/passport.jpg 688w, /image/737430/16x9/944/531/623727d371c1332601a7ba7e94c6789b/AS/passport.jpg 944w, /image/737430/16x9/1180/664/623727d371c1332601a7ba7e94c6789b/jm/passport.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Auf dem Foto sind vier deutsche Reisepässe zu sehen. Einer ist aufgeschlagen." title="Reisep&auml;sse &copy; picture alliance / Arco Images"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/eheschliessung-im-ausland" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Eheschließung im Ausland']"
+     target="_self" title="Eheschließung im Ausland">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Eheschließung im Ausland</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737592/16x9/340/191/71da2fa67d1679221fefc3c6033fe233/bq/eheringe.jpg 340w, /image/737592/16x9/450/253/71da2fa67d1679221fefc3c6033fe233/rr/eheringe.jpg 450w, /image/737592/16x9/688/387/71da2fa67d1679221fefc3c6033fe233/hI/eheringe.jpg 688w, /image/737592/16x9/944/531/71da2fa67d1679221fefc3c6033fe233/Ti/eheringe.jpg 944w, /image/737592/16x9/1180/664/71da2fa67d1679221fefc3c6033fe233/WG/eheringe.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Foto von Eheringen" title="Eheschlie&szlig;ung &copy; picture alliance / ZB"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/internationales-scheidungsrecht" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Internationales Scheidungsrecht']"
+     target="_self" title="Internationales Scheidungsrecht">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Internationales Scheidungsrecht</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2081024/16x9/340/191/c559630d5e71e3cbd5c5fb6b3d93f6b9/ox/scheidung-stempel.jpg 340w, /image/2081024/16x9/450/253/c559630d5e71e3cbd5c5fb6b3d93f6b9/TG/scheidung-stempel.jpg 450w, /image/2081024/16x9/688/387/c559630d5e71e3cbd5c5fb6b3d93f6b9/JD/scheidung-stempel.jpg 688w, /image/2081024/16x9/944/531/c559630d5e71e3cbd5c5fb6b3d93f6b9/AZ/scheidung-stempel.jpg 944w, /image/2081024/16x9/1180/664/c559630d5e71e3cbd5c5fb6b3d93f6b9/NF/scheidung-stempel.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Stempel auf Scheidungspapiere" title="Stempel Scheidung &copy; picturedesk.com"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/kindesentziehung" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Kindesentziehung']"
+     target="_self" title="Kindesentziehung">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Kindesentziehung</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2087686/16x9/340/191/dd93087227a59b16f610efc3c4f35915/SY/kind-traurig.jpg 340w, /image/2087686/16x9/450/253/dd93087227a59b16f610efc3c4f35915/jl/kind-traurig.jpg 450w, /image/2087686/16x9/688/387/dd93087227a59b16f610efc3c4f35915/di/kind-traurig.jpg 688w, /image/2087686/16x9/944/531/dd93087227a59b16f610efc3c4f35915/yg/kind-traurig.jpg 944w, /image/2087686/16x9/1180/664/dd93087227a59b16f610efc3c4f35915/Yo/kind-traurig.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="11-jähriges Maedchen traurig hinter einer nassen Scheibe (Symbolfoto)" title="11-j&auml;hriges Maedchen traurig hinter einer nassen Scheibe (Symbolfoto) &copy; dpa"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        </div>
+  </div>
+</section>
+<section class="u-section " >
+  <div class="section__header">
+    <h2 class="section__headline ">Konsularische Hilfe</h2>
+</div>
+<div class="section__content">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/aufenthaltsermittlung" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Aufenthaltsermittlung im Ausland']"
+     target="_self" title="Aufenthaltsermittlung im Ausland">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Aufenthaltsermittlung im Ausland</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/383212/16x9/340/191/5d35d1f010caab8eeae456f0205d99dd/Zu/suche-fernglas.jpg 340w, /image/383212/16x9/450/253/5d35d1f010caab8eeae456f0205d99dd/Kb/suche-fernglas.jpg 450w, /image/383212/16x9/688/387/5d35d1f010caab8eeae456f0205d99dd/Mo/suche-fernglas.jpg 688w, /image/383212/16x9/944/531/5d35d1f010caab8eeae456f0205d99dd/Du/suche-fernglas.jpg 944w, /image/383212/16x9/1180/664/5d35d1f010caab8eeae456f0205d99dd/Cy/suche-fernglas.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Personensuche" title="Sucher &copy; www.colourbox.com"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/tipps-reise" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Tipps für die Reisevorbereitung und -durchführung']"
+     target="_self" title="Tipps für die Reisevorbereitung und -durchführung">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Tipps für die Reisevorbereitung und -durchführung</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/385750/16x9/340/191/54678b921f66c1eab876886b94ec7865/rZ/koffer---colourbox601898.jpg 340w, /image/385750/16x9/450/253/54678b921f66c1eab876886b94ec7865/WO/koffer---colourbox601898.jpg 450w, /image/385750/16x9/688/387/54678b921f66c1eab876886b94ec7865/Yr/koffer---colourbox601898.jpg 688w, /image/385750/16x9/944/531/54678b921f66c1eab876886b94ec7865/It/koffer---colourbox601898.jpg 944w, /image/385750/16x9/1180/664/54678b921f66c1eab876886b94ec7865/Md/koffer---colourbox601898.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Koffer für die Reise" title="Koffer f&uuml;r die Reise &copy; colourbox"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/hilfe-av" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Hilfe und Rat durch die Auslandsvertretungen']"
+     target="_self" title="Hilfe und Rat durch die Auslandsvertretungen">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Hilfe und Rat durch die Auslandsvertretungen</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/386112/16x9/340/191/a4441f69224c2168786a6f0abba10c09/IW/schild-av.jpg 340w, /image/386112/16x9/450/253/a4441f69224c2168786a6f0abba10c09/dz/schild-av.jpg 450w, /image/386112/16x9/688/387/a4441f69224c2168786a6f0abba10c09/ng/schild-av.jpg 688w, /image/386112/16x9/944/531/a4441f69224c2168786a6f0abba10c09/Fa/schild-av.jpg 944w, /image/386112/16x9/1180/664/a4441f69224c2168786a6f0abba10c09/eG/schild-av.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Schild der Deutschen Botschaft im Libanon" title="Schild Deutsche Botschaft &copy; www.colourbox.com"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/hilfe-notfaelle" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Hilfe für Deutsche in Notfällen: Konsularische Hilfefälle']"
+     target="_self" title="Hilfe für Deutsche in Notfällen: Konsularische Hilfefälle">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Hilfe für Deutsche in Notfällen: Konsularische Hilfefälle</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737666/16x9/340/191/af1c35eb79ac3587edf4330f6b9395b3/eb/hilfeleistung.jpg 340w, /image/737666/16x9/450/253/af1c35eb79ac3587edf4330f6b9395b3/EE/hilfeleistung.jpg 450w, /image/737666/16x9/688/387/af1c35eb79ac3587edf4330f6b9395b3/ll/hilfeleistung.jpg 688w, /image/737666/16x9/944/531/af1c35eb79ac3587edf4330f6b9395b3/ZX/hilfeleistung.jpg 944w, /image/737666/16x9/1180/664/af1c35eb79ac3587edf4330f6b9395b3/mz/hilfeleistung.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Rettungsring an einer Wand" title="Hilfeleistung &copy; colourbox.de"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/konsularhilfe-eu" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Konsularhilfe-Kooperation der Europäischen Union']"
+     target="_self" title="Konsularhilfe-Kooperation der Europäischen Union">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Konsularhilfe-Kooperation der Europäischen Union</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/383210/16x9/340/191/e5e7240fc5d240f6d66740582a927feb/Qv/europaflagge.jpg 340w, /image/383210/16x9/450/253/e5e7240fc5d240f6d66740582a927feb/iY/europaflagge.jpg 450w, /image/383210/16x9/688/387/e5e7240fc5d240f6d66740582a927feb/yd/europaflagge.jpg 688w, /image/383210/16x9/944/531/e5e7240fc5d240f6d66740582a927feb/Tb/europaflagge.jpg 944w, /image/383210/16x9/1180/664/e5e7240fc5d240f6d66740582a927feb/lT/europaflagge.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Im Wind wehende Europaflagge" title="Europaflagge &copy; picture alliance / dpa"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/ec-karten" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_EC-Karten im Ausland: Nicht immer nutzbar!']"
+     target="_self" title="EC-Karten im Ausland: Nicht immer nutzbar!">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">EC-Karten im Ausland: Nicht immer nutzbar!</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2087908/16x9/340/191/3cfcbdcc3f0bd1fcae827208d81ee63b/gc/hand-mit-girocard-der-postbank.jpg 340w, /image/2087908/16x9/450/253/3cfcbdcc3f0bd1fcae827208d81ee63b/Et/hand-mit-girocard-der-postbank.jpg 450w, /image/2087908/16x9/688/387/3cfcbdcc3f0bd1fcae827208d81ee63b/vG/hand-mit-girocard-der-postbank.jpg 688w, /image/2087908/16x9/944/531/3cfcbdcc3f0bd1fcae827208d81ee63b/Wc/hand-mit-girocard-der-postbank.jpg 944w, /image/2087908/16x9/1180/664/3cfcbdcc3f0bd1fcae827208d81ee63b/TI/hand-mit-girocard-der-postbank.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Hand mit Girocard" title="Hand mit Girocard &copy; Picture Alliance"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/rehabilitierung-strafverfolgung" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Rehabilitierung der Opfer von Strafverfolgung']"
+     target="_self" title="Rehabilitierung der Opfer von Strafverfolgung">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Rehabilitierung der Opfer von Strafverfolgung</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/375176/16x9/340/191/7d022af552cf50ca9971c5c777bc83ec/mU/gesetze.jpg 340w, /image/375176/16x9/450/253/7d022af552cf50ca9971c5c777bc83ec/NJ/gesetze.jpg 450w, /image/375176/16x9/688/387/7d022af552cf50ca9971c5c777bc83ec/Dm/gesetze.jpg 688w, /image/375176/16x9/944/531/7d022af552cf50ca9971c5c777bc83ec/NQ/gesetze.jpg 944w, /image/375176/16x9/1180/664/7d022af552cf50ca9971c5c777bc83ec/LY/gesetze.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Gesetzbücher" title="Gesetzb&uuml;cher &copy; REGIERUNGonline/Stutterheim"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        </div>
+  </div>
+</section>
+<section class="u-section " >
+  <div class="section__header">
+    <h2 class="section__headline ">Urkunden und Beglaubigungen; Staatsangehörigkeits- und Verwaltungsrecht; Rechtshilfeverkehr in Zivilsachen</h2>
+</div>
+<div class="section__content">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/internationaler-urkundenverkehr" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Internationaler Urkundenverkehr']"
+     target="_self" title="Internationaler Urkundenverkehr">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Internationaler Urkundenverkehr</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/387656/16x9/340/191/30e3d00bc261a7c0b31d361dc6477fca/Qn/apostille.jpg 340w, /image/387656/16x9/450/253/30e3d00bc261a7c0b31d361dc6477fca/TM/apostille.jpg 450w, /image/387656/16x9/688/387/30e3d00bc261a7c0b31d361dc6477fca/LR/apostille.jpg 688w, /image/387656/16x9/944/531/30e3d00bc261a7c0b31d361dc6477fca/GX/apostille.jpg 944w, /image/387656/16x9/1180/664/30e3d00bc261a7c0b31d361dc6477fca/kP/apostille.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Apostille" title="Apostille &copy; www.apostille-service.de"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/beurkundungen-beglaubigungen" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Beurkundungen und Beglaubigungen durch deutsche Auslandsvertretungen']"
+     target="_self" title="Beurkundungen und Beglaubigungen durch deutsche Auslandsvertretungen">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Beurkundungen und Beglaubigungen durch deutsche Auslandsvertretungen</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737688/16x9/340/191/158e85e143175525b0bff24b9f19825e/ol/konsularwesen.jpg 340w, /image/737688/16x9/450/253/158e85e143175525b0bff24b9f19825e/YG/konsularwesen.jpg 450w, /image/737688/16x9/688/387/158e85e143175525b0bff24b9f19825e/Eb/konsularwesen.jpg 688w, /image/737688/16x9/944/531/158e85e143175525b0bff24b9f19825e/zR/konsularwesen.jpg 944w, /image/737688/16x9/1180/664/158e85e143175525b0bff24b9f19825e/fx/konsularwesen.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Diverse Stempel an einer Halterung" title="Beglaubigung &copy; Photothek.de"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/staatsangehoerigkeitsrecht" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Staatsangehörigkeitsrecht']"
+     target="_self" title="Staatsangehörigkeitsrecht">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Staatsangehörigkeitsrecht</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737446/16x9/340/191/f6438eb1a39fe99b933eb7c8102ae574/Vz/staatsangehoerigkeit.jpg 340w, /image/737446/16x9/450/253/f6438eb1a39fe99b933eb7c8102ae574/dk/staatsangehoerigkeit.jpg 450w, /image/737446/16x9/688/387/f6438eb1a39fe99b933eb7c8102ae574/Ad/staatsangehoerigkeit.jpg 688w, /image/737446/16x9/944/531/f6438eb1a39fe99b933eb7c8102ae574/pL/staatsangehoerigkeit.jpg 944w, /image/737446/16x9/1180/664/f6438eb1a39fe99b933eb7c8102ae574/TD/staatsangehoerigkeit.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Staatsangehörigkeitsausweis" title="Staatsangeh&ouml;rigkeitsausweis &copy; Ute Grabowsky / photothek.net"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/fuehrerschein" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Führerscheine']"
+     target="_self" title="Führerscheine">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Führerscheine</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/737534/16x9/340/191/2862a4a1f1db8a42f7e7a4f202b69aad/dX/antragsformular.jpg 340w, /image/737534/16x9/450/253/2862a4a1f1db8a42f7e7a4f202b69aad/vQ/antragsformular.jpg 450w, /image/737534/16x9/688/387/2862a4a1f1db8a42f7e7a4f202b69aad/nl/antragsformular.jpg 688w, /image/737534/16x9/944/531/2862a4a1f1db8a42f7e7a4f202b69aad/df/antragsformular.jpg 944w, /image/737534/16x9/1180/664/2862a4a1f1db8a42f7e7a4f202b69aad/wz/antragsformular.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Foto eines Formulars" title="Antragsformular &copy; picture-alliance/ ZB"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/rechtshilfeverkehr" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Rechtshilfeverkehr in Zivilsachen']"
+     target="_self" title="Rechtshilfeverkehr in Zivilsachen">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Rechtshilfeverkehr in Zivilsachen</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2087692/16x9/340/191/ad5a78929585841ebf3f87adaa41b1d/cq/rechtshilfe.jpg 340w, /image/2087692/16x9/450/253/ad5a78929585841ebf3f87adaa41b1d/dn/rechtshilfe.jpg 450w, /image/2087692/16x9/688/387/ad5a78929585841ebf3f87adaa41b1d/ao/rechtshilfe.jpg 688w, /image/2087692/16x9/944/531/ad5a78929585841ebf3f87adaa41b1d/cS/rechtshilfe.jpg 944w, /image/2087692/16x9/1180/664/ad5a78929585841ebf3f87adaa41b1d/Ii/rechtshilfe.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Rechtshilfeverkehr" title="Rechtshilfeverkehr &copy; MAXPPP"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/wehrdienst-bfd" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Wehrdienst und Bundesfreiwilligendienst']"
+     target="_self" title="Wehrdienst und Bundesfreiwilligendienst">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Wehrdienst und Bundesfreiwilligendienst</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2100106/16x9/340/191/7eed48ff3318b107209299888b1bd8c1/gH/bundesfreiwilligendienst.jpg 340w, /image/2100106/16x9/450/253/7eed48ff3318b107209299888b1bd8c1/Ls/bundesfreiwilligendienst.jpg 450w, /image/2100106/16x9/688/387/7eed48ff3318b107209299888b1bd8c1/nR/bundesfreiwilligendienst.jpg 688w, /image/2100106/16x9/944/531/7eed48ff3318b107209299888b1bd8c1/hL/bundesfreiwilligendienst.jpg 944w, /image/2100106/16x9/1180/664/7eed48ff3318b107209299888b1bd8c1/pL/bundesfreiwilligendienst.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Bundesfreiwilligendienst im Krankenhaus" title="Bundesfreiwilligendienst im Krankenhaus &copy; dpa"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        </div>
+  </div>
+</section>
+<section class="u-section " >
+  <div class="section__header">
+    <h2 class="section__headline ">Informationen zum Familiennachzug für Schutzberechtigte aus Syrien</h2>
+</div>
+<div class="section__content">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-4	is-tablet-col-6">
+            <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo/familiennachzug-syrien" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Informationen zum Familiennachzug für Schutzberechtigte aus Syrien']"
+     target="_self" title="Informationen zum Familiennachzug für Schutzberechtigte aus Syrien">
+    <div class="teaser__text-section">
+        <h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    <span class="heading__title-text">Informationen zum Familiennachzug für Schutzberechtigte aus Syrien</span></span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/image/2088622/16x9/340/191/c6af77bcb5a7d7b2e174dc89732f4554/aF/fluechtlinge-syrien.jpg 340w, /image/2088622/16x9/450/253/c6af77bcb5a7d7b2e174dc89732f4554/yW/fluechtlinge-syrien.jpg 450w, /image/2088622/16x9/688/387/c6af77bcb5a7d7b2e174dc89732f4554/hf/fluechtlinge-syrien.jpg 688w, /image/2088622/16x9/944/531/c6af77bcb5a7d7b2e174dc89732f4554/sV/fluechtlinge-syrien.jpg 944w, /image/2088622/16x9/1180/664/c6af77bcb5a7d7b2e174dc89732f4554/VB/fluechtlinge-syrien.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Syrisches Flüchtlingslager" title="Syrisches Fl&uuml;chtlingslager &copy; IMAGESLIVE via ZUMA Wire"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+        </div>
+  </div>
+</section>
+<section class="u-section " >
+  <div class="section__header">
+    <h2 class="section__headline ">Webseiten und Adressen der Auslandsvertretungen</h2>
+</div>
+<div class="section__content">
+  <div class="u-grid-row">
+    <div class="u-grid-col is-desktop-col-6 is-tablet-col-6">
+        <div class="c-teaser--default is-headline-text  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Webseiten der Auslandsvertretungen']"
+     target="_self" title="Webseiten der Auslandsvertretungen">
+    <div class="teaser__text-section">
+        <span class="teaser__subline">
+  <em class="teaser__category">Seite</em>
+</span>
+<h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Webseiten der Auslandsvertretungen</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+<p class="teaser__text">Liste der Websites von deutschen Vertretungen im Ausland, alphabetisch nach Ländernamen geordnet.</p>
+</div>
+    </a>
+</div>
+</div>
+      <div class="u-grid-col is-desktop-col-6 is-tablet-col-6">
+        <div class="c-teaser--default is-image-headline  "
+     data-css="c-teaser"  data-dublettenFilterState="render">
+
+  <a href="/de/ReiseUndSicherheit/deutsche-auslandsvertretungen" class="teaser__link"
+     data-js-tracking="['trackEvent', 'Navigation', 'Klick Teaser', 'Teaser_Deutsche Auslandsvertretungen in Ihrem Reiseland']"
+     target="_self" title="Deutsche Auslandsvertretungen in Ihrem Reiseland">
+    <div class="teaser__text-section">
+        <span class="teaser__subline">
+  <em class="teaser__category">Seite</em>
+</span>
+<h3 class="teaser__headline">
+  <span class="teaser__headline-content">
+    Deutsche Auslandsvertretungen in Ihrem Reiseland</span>
+  <span class="teaser__headline-icon i-arrow_left_100" data-grunticon-embed="true"></span>
+</h3>
+</div>
+    <div class="teaser__image-section">
+        <picture class="c-picture--teaser  " data-css="c-picture">
+          <source  srcset="/blob/239730/2b0d2e01fc4ffdd369de5ec67bdc4ba9/dt-botschaft-prag-data2.jpg 340w, /blob/239730/2b0d2e01fc4ffdd369de5ec67bdc4ba9/dt-botschaft-prag-data2.jpg 450w, /blob/239730/2b0d2e01fc4ffdd369de5ec67bdc4ba9/dt-botschaft-prag-data2.jpg 688w, /blob/239730/2b0d2e01fc4ffdd369de5ec67bdc4ba9/dt-botschaft-prag-data2.jpg 944w, /blob/239730/2b0d2e01fc4ffdd369de5ec67bdc4ba9/dt-botschaft-prag-data2.jpg 1180w " sizes="(min-width: 1245px) 340px, (min-width: 1040px) 340px, (min-width: 768px) 340px,  340px"/>
+
+          <img class="picture__image  "
+                       src="/blob/292/1d405f76d7ae8e678c7864e62790f650/loading-data.gif" alt="Balkon der deutschen Botschaft in Pressburg" title="Balkon der deutschen Botschaft in Pressburg &copy; picture alliance / dpa"
+                      data-sizes="auto"/>
+              </picture>
+    </div>
+    </a>
+</div>
+</div>
+      </div>
+</div>
+</section>
+<div class="u-grid-row">
+    <div class="u-grid-col">
+      <div class="c-content-nav--default" data-css="c-content-nav">
+    <ul class="content-nav__list">
+        <li class="content-nav__list-item is-print">
+            <a href="javascript:window.print()" class="content-nav__link" title="Seite drucken">
+                <span class="content-nav__link-content">Seite drucken</span>
+                <span class="content-nav__link-icon i-printer" data-grunticon-embed="true"></span>
+            </a>
+        </li>
+
+        <li class="content-nav__list-item">
+                <button class="c-cta--sharing-list-toggle" data-css="c-cta" data-js-module="cta"
+                        data-js-options="{&quot;globalEvent&quot;:&quot;cta:openSharingList&quot;,&quot;closedLabel&quot;:&quot;Seite teilen&quot;,&quot;openedLabel&quot;:&quot;Schließen&quot;}">
+                    <span class="cta__icon i-share" data-grunticon-embed="true"></span>
+                    <span class="cta__content" data-js-item="cta-content">Seite teilen</span>
+                </button>
+                <div class="c-toggler--link-list is-closed" data-css="c-toggler" data-js-module="toggler"
+                     data-js-options="{&quot;globalEvent&quot;:&quot;cta:openSharingList&quot;}">
+                    <div class="toggler__wrapper">
+                        <div class="c-link-list--languages"
+                             data-css="c-link-list">
+                            <h3 class="link-list__headline">Seite teilen</h3>
+                            <ul class="link-list__list">
+                                <li class="link-list__list-item">
+                                        <a class="link-list__link" href="WhatsApp://send?text=Konsularinformationen%20https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo" title="WhatsApp"
+                                           target="_blank">WhatsApp</a>
+                                    </li>
+                                <li class="link-list__list-item">
+                                        <a class="link-list__link" href="http://www.facebook.com/sharer.php?u=https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo" title="Facebook"
+                                           target="_blank">Facebook</a>
+                                    </li>
+                                <li class="link-list__list-item">
+                                        <a class="link-list__link" href="http://twitter.com/share?url=https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo&text=Konsularinformationen" title="Twitter"
+                                           target="_blank">Twitter</a>
+                                    </li>
+                                <li class="link-list__list-item">
+                                        <a class="link-list__link" href="mailto:?subject=Empfehlung%20aus%20dem%20Internetauftritt%20des%20Auswärtigen%20Amtes&body=Der%20nachfolgende%20Artikel%20könnte%20für%20Sie%20interessant%20sein:%20https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/konsularinfo" title="Mail"
+                                           target="_self">Mail</a>
+                                    </li>
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        <li class="content-nav__list-item is-totop">
+            <a href="#header" class="content-nav__link" title="nach oben">
+                <span class="content-nav__link-content">nach oben</span>
+                <span class="content-nav__link-icon i-arrow_meta_up" data-grunticon-embed="true"></span>
+            </a>
+        </li>
+    </ul>
+</div></div>
+  </div>
+</main><footer class="c-footer--default" data-css="c-footer">
+  <h2 class="footer__footer-title">Zusatzinformationen</h2>
+  <div class="footer__region">
+    <div class="u-grid-row">
+
+      <div class="u-grid-col  is-desktop-col-8 is-tablet-col-6">
+        <div class="c-search--footer" data-css="c-search" data-js-module="search"
+       data-js-options="{&quot;customSubmit&quot;:&quot;customformat&quot;}">
+    <div class="search__wrapper">
+      <form class="search__form" action="/de/search" data-js-atom="search-form">
+        <fieldset class="search__control-group" data-fpropertyfield="search"
+                  data-js-atom="search-fieldset">
+          <legend class="is-aural">Inhalt</legend>
+          <label class="is-aural" for="search-input-bottom-1802">Geben Sie ein Suchwort ein</label>
+          <input type="search" placeholder="Was suchen Sie?" class="search__input" name="search"
+                 id="search-input-bottom-1802" data-js-atom="input" autocomplete="off">
+          <button type="submit" class="search__submit-btn" data-js-atom="submit" title="Suche">
+            <span class="search__submit-btn-text">Suche</span>
+            <span class="i-magnifier" data-grunticon-embed="true"></span>
+          </button>
+        </fieldset>
+      </form>
+    </div>
+  </div>
+</div>
+      <div class="u-grid-col is-desktop-col-4 is-tablet-col-6 is-ruler-tablet is-ruler-desktop">
+    <div class="footer__section">
+      <div class="footer__social-media">
+        <ul class="footer__social-media-list">
+          <li class="footer__social-media-list-item">
+                <a href="https://twitter.com/auswaertigesamt" title="Das Auswärtige Amt bei Twitter"
+                   target="_blank"
+                   class="footer__social-media-list-link is-social-background">
+                  <span class="footer__social-media-link-content">Das Auswärtige Amt bei Twitter</span>
+                  <span class="footer__social-media-link-icon i-twitter"
+                      data-grunticon-embed="true"></span>
+                </a>
+              </li>
+            <li class="footer__social-media-list-item">
+                <a href="https://www.facebook.com/AuswaertigesAmt/" title="Das Auswärtige Amt bei Facebook"
+                   target="_blank"
+                   class="footer__social-media-list-link is-social-background">
+                  <span class="footer__social-media-link-content">Das Auswärtige Amt bei Facebook</span>
+                  <span class="footer__social-media-link-icon i-facebook"
+                      data-grunticon-embed="true"></span>
+                </a>
+              </li>
+            <li class="footer__social-media-list-item">
+                <a href="https://www.youtube.com/user/AuswaertigesAmtDE" title="Das Auswärtige Amt bei YouTube"
+                   target="_blank"
+                   class="footer__social-media-list-link is-social-background">
+                  <span class="footer__social-media-link-content">Das Auswärtige Amt bei YouTube</span>
+                  <span class="footer__social-media-link-icon i-youtube"
+                      data-grunticon-embed="true"></span>
+                </a>
+              </li>
+            <li class="footer__social-media-list-item">
+                <a href="https://www.instagram.com/auswaertigesamt/" title="Das Auswärtige Amt bei Instagram"
+                   target="_blank"
+                   class="footer__social-media-list-link is-social-background">
+                  <span class="footer__social-media-link-content">Das Auswärtige Amt bei Instagram</span>
+                  <span class="footer__social-media-link-icon i-instagram"
+                      data-grunticon-embed="true"></span>
+                </a>
+              </li>
+            </ul>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="footer__region">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-4 is-tablet-col-6">
+        <div class="footer__list-wrapper ">
+  <h3 class="footer__list-title ">Weltweit sicher reisen</h3>
+  <ul class="footer__list">
+    <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/ReiseUndSicherheit" title="Reise- und Sicherheitshinweise"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Reise- und Sicherheitshinweise&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Reise- und Sicherheitshinweise</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/ReiseUndSicherheit/deutsche-auslandsvertretungen" title="Konsulatfinder weltweit"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Konsulatfinder weltweit&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Konsulatfinder weltweit</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/aussenpolitik/laender" title="Länderinformationen"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Länderinformationen&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Länderinformationen</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      </ul>
+</div></div>
+      <div class="u-grid-col is-desktop-col-4 is-tablet-col-6">
+        <div class="footer__list-wrapper ">
+  <h3 class="footer__list-title ">Bürgerservice</h3>
+  <ul class="footer__list">
+    <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/newsroom/buergerservice-faq-kontakt" title="Kontakt"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Kontakt&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Kontakt</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/newsroom/buergerservice-faq-kontakt/faq" title="FAQ - häufig gestellte Fragen"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;FAQ - häufig gestellte Fragen&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">FAQ - häufig gestellte Fragen</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-link-hover">
+          <a class="footer__list-link" href="/de/aamt/zugastimaa/erreichbarkeit-node" title="Adresse / Anfahrt"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Adresse / Anfahrt&#x27;]">
+            <div class="footer__icon-wrapper ">
+            <span class="footer__icon i-arrow-left-small"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Adresse / Anfahrt</span>
+              <span class="footer__list-sub-content"></span>
+            </div>
+          </a>
+        </li>
+      </ul>
+</div></div>
+      <div class="u-grid-col is-desktop-col-4 is-tablet-col-12">
+        <div class="footer__list-wrapper is-third">
+  <h3 class="footer__list-title ">Deutschland und die Welt</h3>
+  <ul class="footer__list">
+    <li class="footer__list-item is-exit-link">
+          <a class="footer__list-link" href="/de/app-sicher-reisen/350382" title="Sicher Reisen"
+             target="_self"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Sicher Reisen&#x27;]">
+            <div class="footer__icon-wrapper is-background">
+            <span class="footer__icon i-app_phone"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Sicher Reisen</span>
+              <span class="footer__list-sub-content">App</span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-exit-link">
+          <a class="footer__list-link" href="https://www.deutschland.de/de" title="Deutschland.de"
+             target="_blank"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Deutschland.de&#x27;]">
+            <div class="footer__icon-wrapper is-background">
+            <span class="footer__icon i-world"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Deutschland.de</span>
+              <span class="footer__list-sub-content">Website</span>
+            </div>
+          </a>
+        </li>
+      <li class="footer__list-item is-exit-link">
+          <a class="footer__list-link" href="http://www.kinder.diplo.de" title="Kinderseite des Auswärtigen Amts"
+             target="_blank"
+             data-js-tracking="[&#x27;trackEvent&#x27;, &#x27;Navigation&#x27;, &#x27;Footer-Links&#x27;, &#x27;Kinderseite des Auswärtigen Amts&#x27;]">
+            <div class="footer__icon-wrapper is-background">
+            <span class="footer__icon i-aamt_kinder"
+                  data-grunticon-embed="true"></span>
+            </div>
+            <div class="footer__list-content-wrapper">
+              <span class="footer__list-content">Kinderseite des Auswärtigen Amts</span>
+              <span class="footer__list-sub-content">Website</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+</div></div>
+    </div>
+  </div>
+  <div class="footer__region is-background-secondary">
+    <div class="u-grid-row">
+      <div class="u-grid-col is-desktop-col-12 is-tablet-col-12">
+        <div class="footer__section">
+  <ul class="footer__imprint">
+    <li class="footer__imprint-item">
+        <a class="footer__link" title="Impressum" target="_self"
+           href="/de/impressum-node">Impressum</a>
+      </li>
+    <li class="footer__imprint-item">
+        <a class="footer__link" title="Datenschutz" target="_self"
+           href="/de/datenschutz-node">Datenschutz</a>
+      </li>
+    </ul>
+  <h3 class="footer__title">Copyright</h3>
+  <div class="footer__copyright">
+    <p class="footer__copyright-text">&copy; 1995 – 2018 &nbsp; Auswärtiges Amt</p>
+  </div>
+</div></div>
+    </div>
+  </div>
+</footer></div>
+</div>
+
+<script type="text/javascript" src="/resources/1802/0/-228519124/de.js"></script>
+<!-- Piwik -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDoNotTrack", true]);
+    _paq.push(['setDocumentTitle','AAChannel\/Konsularinformationen']);
+    
+      _paq.push(['trackPageView']);
+    
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "//piwik.auswaertiges-amt.de/";
+      _paq.push(['setTrackerUrl', u + 'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.type = 'text/javascript';
+      g.async = true;
+      g.defer = true;
+      g.src = u + 'piwik.js';
+      s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+  <noscript><p><img src="//piwik.auswaertiges-amt.de/piwik.php?idsite=1&amp;rec=1" style="border:0;" alt=""/></p>
+  </noscript>
+  <!-- End Piwik Code -->
+<!-- System: 7.1.14-12 / ID : 199788 / Version : 15 --></div>
+
+</body>
+</html>
