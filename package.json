@@ -1,0 +1,30 @@
+{
+  "name": "berliner-formulare",
+  "version": "1.0.0",
+  "description": "Overview of Berlin's Forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technologiestiftung/berliner-formulare.git"
+  },
+  "keywords": [
+    "OpenData",
+    "NodeJS",
+    "Transparency"
+  ],
+  "author": "Sebastian Meier @seb_meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technologiestiftung/berliner-formulare/issues"
+  },
+  "homepage": "https://github.com/technologiestiftung/berliner-formulare#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
